@@ -1,0 +1,2000 @@
+investment
+cognitive systems; neural nets; philosophical aspects
+artificial intelligence; cognitive systems; philosophical aspects
+artificial intelligence; cognitive systems
+belief maintenance; cognitive systems; inference mechanisms
+artificial intelligence; cognitive systems; decision theory; game theory
+chemical technology; controllability; higher order statistics; identification; large-scale systems; Monte Carlo methods; multivariable control systems; process control; transfer functions
+biotechnology; control system synthesis; nonlinear control systems; nonlinear differential equations; partial differential equations; reduced order systems; robust control; singularly perturbed systems; state-space methods; water treatment
+closed loop systems; control system synthesis; controllability; decentralised control; matrix algebra; root loci
+control system analysis computing; large-scale systems; object-oriented programming; paper industry; predictive control; quadratic programming
+asymptotic stability; closed loop systems; control system synthesis; matrix algebra; predictive control; robust control; state estimation; state feedback
+adaptive control; control system analysis; level control; nonlinear control systems; relay control; robust control; self-adjusting systems; stability; three-term control; time-varying systems
+fault tolerance; Hebbian learning; position control; robots; self-adjusting systems; unsupervised learning
+evolutionary computation; mobile robots; neurocontrollers
+backpropagation; cerebellar model arithmetic computers; fuzzy control; intelligent control; learning (artificial intelligence); legged locomotion; neurocontrollers
+identification; learning (artificial intelligence); manipulator dynamics; neural net architecture; radial basis function networks; splines (mathematics)
+learning (artificial intelligence); nonparametric statistics; real-time systems; robots
+brain models; recurrent neural nets; timing
+adaptive control; biocontrol; brain models; cerebellar model arithmetic computers; learning (artificial intelligence); robot dynamics; robot kinematics
+microlenses; micromachining; moulding; optical design techniques; optical fabrication; optical polymers; optical storage
+holographic storage; multiplexing; optical disc storage; optical polymers; optimisation
+asymptotic stability; delay-differential systems; differential equations; interconnections; Lyapunov methods; neural nets; nonlinear dynamical systems
+adaptive optics; astronomical techniques; astronomical telescopes; astronomy computing; deconvolution; focal planes; image enhancement; image reconstruction; image resolution; image sampling; image sequences; optical transfer function
+codes; error statistics; military systems; optical fibre networks; optical modulation; optical receivers; sensitivity; system buses
+CCD image sensors; focal planes; image recognition; principal component analysis
+edge detection; Laplace equations; nonlinear optics
+decision theory; decision trees; decoding; image coding; image reconstruction; quantisation (signal); wavelet transforms
+copy protection; image classification; image coding; remote sensing
+aquaculture; environmental factors; erosion; image classification; vector quantisation; vegetation mapping
+civil engineering computing; feature extraction; image classification; image representation; image texture; remote sensing
+antimony; optical disc storage; optical films; optical resolving power; silicon compounds
+birefringence; moulding; optical disc storage; optical fabrication; replica techniques; substrates; thermal insulation; video discs
+geophysical signal processing; height measurement; image resolution; stereo image processing; terrain mapping
+adaptive signal processing; data compression; Gaussian noise; image coding; infrared spectroscopy; principal component analysis; remote sensing; spectral analysis; visible spectroscopy
+geophysics computing; graphical user interfaces; image processing; optimisation; remote sensing
+adders; digital arithmetic; encoding; optical logic; parallel architectures
+damping; feedback; nonlinear control systems; numerical analysis; optimal control; rotation; vibration control; vibrations
+optimisation; vibration control
+feedback; manipulators; nonlinear control systems; nonlinear dynamical systems; shape memory effects
+nonlinear control systems; state feedback; stochastic systems
+acoustic noise; acoustic wave reflection; acoustic wave transmission; force feedback; vibration control; vibrations
+damping; transformers; vibration control
+asymptotic stability; differentiation; frequency response; robust control; time-varying systems
+damping; differentiation; engines; vibration isolation; viscoelasticity
+calculus; chaos; inverse problems; matrix algebra; nonlinear dynamical systems; optimisation; position control; redundant manipulators
+calculus; cutting; motion control; optimisation; polynomial approximation; position control; splines (mathematics); tracking filters
+differentiation; digital control; integration; nonlinear control systems; nonlinear dynamical systems; realisation theory
+model reference adaptive control systems; nonlinear control systems; nonlinear dynamical systems; parameter estimation; variational techniques
+aerospace instrumentation; attitude control; controllers; damping; flexible manipulators; frequency response; frequency stability; nonlinear control systems; nonlinear dynamical systems; partial differential equations; space vehicles
+differential equations; integral equations; nonlinear control systems; nonlinear dynamical systems; numerical stability; transfer functions; transient response
+distributed programming; functional languages; functional programming; parallel languages; parallel programming
+functional languages; functional programming; hypermedia markup languages; software libraries; type theory
+quantum computing; quantum theory
+functional languages; functional programming; optimising compilers
+data structures; functional languages; functional programming; type theory
+concurrency control; fault tolerant computing; file servers; functional programming; Internet
+functional languages; lambda calculus; programming language semantics
+decision theory; psychology
+decision theory; feedback; probability; psychology
+auditing; behavioural sciences; decision theory; probability
+behavioural sciences; decision theory; marketing
+decision theory; psychology
+behavioural sciences; decision theory; human resource management
+quantum computing; quantum theory
+agriculture; biological techniques; biology computing; botany; data analysis; Gaussian processes; ionisation; laser beam applications; neural nets; spectral analysis; spectroscopy computing; thermally stimulated desorption; time of flight mass spectra
+computer viruses; security of data; software standards
+quantum communication
+Hilbert spaces; quantum communication; quantum cryptography; quantum theory
+quantum computing; quantum theory
+encoding; quantum communication; source coding
+artificial intelligence; atomic clusters; genetic algorithms; ground states; molecular configurations; neural nets; optimisation; physics computing
+adders; computation theory; nuclear magnetic resonance; quantum gates; spin systems
+optical beam splitters; quantum gates; quantum optics; quantum theory; reflectivity
+atom-photon collisions; information theory; optical squeezing; quantum optics; quantum theory
+quantum communication; quantum computing; quantum optics; stimulated Raman scattering
+digital simulation; dynamics; quantum computing
+quantum communication; quantum cryptography
+information theory; quantum computing; quantum theory; Rydberg states; storage media
+atom-photon collisions; electromagnetic fields; master equation; open systems; probability; quantum communication; quantum theory
+computation theory; harmonic oscillators; information theory; quantum computing; quantum theory
+error correction; fault tolerant computing; information theory; quantum computing
+information theory; quantum communication; quantum optics; quantum theory
+learning systems; quantum theory
+fuzzy logic; fuzzy set theory; fuzzy systems
+bending; intelligent actuators; manipulators; position control; shape memory effects
+information theory; quantum communication; stochastic processes
+automobiles; braking; dynamics; motion control; vibration control
+Banach spaces; initial value problems; Runge-Kutta methods; stability
+boundary-value problems; Newton method; nonlinear differential equations
+differential equations; matrix algebra; stability
+initial value problems; matrix decomposition; partial differential equations
+codes; extrapolation; iterative methods; series (mathematics)
+differential equations; Hermitian matrices; initial value problems; series (mathematics)
+difference equations; eigenvalues and eigenfunctions; matrix algebra; stability
+absolute stability; initial value problems; matrix algebra; predictor-corrector methods; roundoff errors
+eigenvalues and eigenfunctions; initial value problems; matrix algebra; stability
+encoding; optimisation; quantum communication
+differential equations; initial value problems; iterative methods; matrix algebra; stability
+automobiles; dynamics; friction; motion control; vibration control
+braking; haemodynamics; patient care; position control; road vehicles
+combined cycle power stations; control system synthesis; fuzzy control; power station control; steam turbines; thermal stresses; three-term control
+business data processing; distributed databases; groupware; information resources; interactive systems; user interfaces
+computerised monitoring; computerised numerical control; condition monitoring; fault diagnosis; machine tools; neural nets; pattern recognition; real-time systems; unsupervised learning; vector quantisation
+control system analysis computing; discrete event simulation; distributed control; multi-agent systems; production control
+arc welding; eddy currents; electromagnetic devices; process control; sensors; signal processing; tracking
+adaptive control; arc welding; process control; self-adjusting systems; stability
+CAD/CAM; computerised numerical control; design for manufacture; Internet; machining
+corporate modelling; decision theory; manufacturing industries; technological forecasting
+asymptotic stability; chaos; nonlinear control systems; piecewise linear techniques; robust control; synchronisation
+feature extraction; mechanical engineering
+CAD/CAM; computational geometry; feature extraction; spatial reasoning
+decoding; distributed object management; electronic data interchange; encoding; file organisation; health care; Java; medical information systems; message passing; software reusability; software standards
+computer network management; computer network reliability; error correction; fault tolerant computing; open systems; reviews; self-adjusting systems; software reliability; software standards; technological forecasting
+decoding; image coding; parallel architectures; pipeline processing
+calibration; fission reactor monitoring; fuzzy systems; nuclear engineering computing
+human factors; man-machine systems; nuclear engineering computing; virtual reality
+computerised instrumentation; dimensions; inspection; knowledge based systems; length measurement; measurement standards; open systems; virtual reality languages
+cements (building materials); crystal microstructure; image processing; Internet; measurement standards; nondestructive testing; synchrotron radiation; X-ray imaging; X-ray topography
+database theory; multivalued logic
+asymptotic stability; chaos; Lyapunov matrix equations; nonlinear control systems; nonlinear dynamical systems; synchronisation
+rendering (computer graphics); table lookup
+recursive functions; Turing machines
+computer graphics; solid modelling; splines (mathematics)
+hidden Markov models; speech recognition
+artificial intelligence; multi-agent systems; problem solving; software agents
+computational complexity; data compression; image coding; interpolation; splines (mathematics); wavelet transforms
+grammars; language translation; natural language interfaces
+data structures; protocols; security of data
+data flow analysis; parallelising compilers
+concurrency control; configuration management; software reusability
+bound states; information theory; measurement theory; probability; quantum theory
+feedback; packet switching; quality of service; transport protocols
+optical fibre networks; telecommunication network routing; wavelength division multiplexing
+multicast communication; quality of service; video on demand
+concurrency control; mobile computing; replicated databases; transaction processing
+distributed databases; hypermedia markup languages; information resources; query processing
+finite automata
+cooperative systems; economic cybernetics; game theory
+differential games; duality (mathematics)
+convergence; dynamic programming; minimax techniques; polynomials; set theory; stochastic games
+complementarity; linear programming; matrix algebra; stochastic games
+bound states; information theory; quantum computing; quantum statistical mechanics
+graph theory; operations research; telecommunication network routing
+bin packing; duality (mathematics); feedback; graph theory; linear programming; linear systems; minimax techniques; polynomial approximation
+linear programming; linearisation techniques; minimisation; nonlinear programming; polynomials
+computational complexity; convergence of numerical methods; iterative methods; matrix algebra; Newton method; operations research
+complementarity; Lyapunov matrix equations; matrix algebra
+bang-bang control; continuous time systems; graph theory; optimal control; production control; railways; search problems; singular optimal control
+decision theory; differential equations; dynamic programming; learning (artificial intelligence); Markov processes
+decidability; queueing theory; scheduling
+approximation theory; Markov processes; queueing theory; state-space methods
+biological organs; cancer; case-based reasoning; feature extraction; image classification; mammography; medical expert systems; medical image processing; sensitivity analysis
+bound states; cooperative systems; game theory; probability; quantum computing; quantum theory
+biological organs; biomedical ultrasonics; image classification; mammography; medical image processing
+biomedical MRI; image registration; image segmentation; mammography; medical image processing; tumours
+diagnostic radiography; dosimetry; medical image processing; radiation therapy; X-ray optics
+algorithm theory; dosimetry; intensity modulation; physiological models; radiation therapy; X-ray scattering
+eigenvalues and eigenfunctions; image reconstruction; iterative methods; maximum likelihood estimation; medical image processing; optimisation; positron emission tomography
+biological tissues; computer graphics; diagnostic radiography; fractals; image registration; image texture; mammography; mathematical morphology; medical image processing; physiological models
+biological tissues; computer graphics; diagnostic radiography; image registration; mammography; medical image processing; physiological models; Young's modulus
+cancer; digital simulation; emission tomography; image reconstruction; mammography; medical image processing; tumours
+dosimetry; electron beam applications; electron transport theory; medical computing; Monte Carlo methods; radiation therapy
+Boltzmann equation; determinants; dosimetry; medical computing; photon transport theory; radiation therapy
+bound states; information theory; quantum computing; quantum cryptography; quantum theory
+dosimetry; intensity modulation; medical computing; neurophysiology; radiation therapy; tumours
+diaphragms; dosimetry; intensity modulation; liquid ionisation chambers; medical image processing; radiation therapy
+dosimetry; gradient methods; medical computing; Newton method; optimisation; radiation therapy
+dosimetry; intensity modulation; inverse problems; medical computing; Monte Carlo methods; optimisation; planning; radiation therapy; simulated annealing
+dosimetry; iodine; medical computing; radiation therapy; radioactive sources; radioisotopes
+algorithm theory; linear accelerators; radiation therapy; X-ray optics
+computerised tomography; image reconstruction; interpolation; medical image processing; noise
+computerised tomography; dosimetry; medical image processing; Monte Carlo methods; radiation therapy
+metallurgical industries
+formal logic; recursive functions
+bound states; eigenvalues and eigenfunctions; entropy; EPR paradox; many-body problems; probability; quantum communication; random processes
+computational geometry; formal logic
+formal logic
+group theory; process algebra
+computational complexity; recursive functions
+computability; number theory
+formal logic; group theory
+formal logic; group theory
+failure analysis; reliability theory
+failure analysis; probability; recursive estimation; reliability theory
+engineering computing; failure analysis; reliability theory
+image processing; Markov processes; signal processing; statistical analysis; trees (mathematics); wavelet transforms
+cutting; friction; machine tools; machining; mechanical engineering; shear strength
+condition monitoring; data analysis; diagnostic expert systems; inspection; knowledge acquisition; knowledge representation; machine tools; machining; tolerance analysis
+computerised numerical control; cutting; diamond; kinematics; machining; plastic deformation
+cutting; damping; machining; mechanical engineering computing; stability; wear
+computer aided production planning; computerised numerical control; cutting; machine tools; machining; optimisation
+cutting; finite difference methods; heat transfer; machine tools; machining; mechanical engineering computing; wear
+acoustic emission; condition monitoring; diagnostic expert systems; electric current measurement; fast Fourier transforms; force measurement; machine tools; machining; neural nets; process monitoring; signal processing; statistical analysis; vibration measurement; wavelet transforms; wear
+carbon steel; laser beam machining; stainless steel; statistical analysis
+computer networks; computer science education; educational courses
+cellular automata; computational complexity; evolutionary computation
+closed loop systems; induction motor drives; reliability; robust control; signal flow graphs; stators
+cellular automata; computational complexity
+evolutionary computation; genetic algorithms; parallel programming
+distributed algorithms; mobile computing; robots; self-adjusting systems; software agents; sorting
+cellular automata
+management; manufacturing industries
+manufacturing industries; marketing; workflow management software
+management; manufacturing industries
+factory automation; local area networks; manufacturing industries
+costing; management; purchasing
+management
+data compression; image coding; ISO standards
+business data processing; DP management; software selection
+differential equations; heat transfer; matrix algebra
+initial value problems; partial differential equations
+matrix decomposition; partial differential equations; Runge-Kutta methods; stability
+differential equations; initial value problems
+iterative methods; Laplace equations; stability
+boundary-value problems; differential equations; Runge-Kutta methods; stability
+error analysis; numerical analysis; solitons
+approximation theory; differential equations; Runge-Kutta methods
+differential equations; Runge-Kutta methods
+economic cybernetics; technological forecasting
+fluctuations; Internet; lattice theory; parallel processing; phase transformations; self-organised criticality
+conservation laws; finite volume methods; fluid mechanics; image processing; polynomials
+manufacturing data processing; manufacturing resources planning; product development
+budgeting; manufacturing data processing; project management; software development management
+information technology; management of change; manufacturing data processing; manufacturing resources planning; technological forecasting
+application program interfaces; message passing; parallel programming; program compilers; software performance evaluation
+optimising compilers; software performance evaluation; software tools
+computer networks; protocols; telecommunication traffic recording
+multimedia communication; transport protocols
+digital simulation; dynamic response; materials science; shock waves; virtual reality
+parallel languages; parallel programming; program compilers
+bisimulation equivalence; finite state machines; formal verification; minimisation
+optimising compilers
+decision trees; feedforward neural nets; inference mechanisms; knowledge acquisition; learning (artificial intelligence)
+data integrity; data mining; relational databases; SQL; very large databases
+assembly planning; CAD/CAM; concurrent engineering; decision support systems; intelligent design assistants; multi-agent systems; Petri nets
+electronic commerce; Internet; multi-agent systems; transaction processing; workflow management software
+business data processing; knowledge acquisition; knowledge based systems; optimisation; systems re-engineering
+groupware; Internet; knowledge representation; software development management; workflow management software
+decision support systems; multi-agent systems; operating systems (computers); planning (artificial intelligence); real-time systems; town and country planning
+expert systems; financial data processing; knowledge acquisition
+blackboard architecture; CAD/CAM; graph theory; intelligent design assistants
+distributed processing; formal specification; formal verification; ISO standards; process algebra; specification languages
+business data processing; groupware; knowledge representation; user modelling
+groupware; intelligent tutoring systems; teaching; user interfaces
+data mining; relational databases; very large databases
+case-based reasoning; classification; computational complexity; diagnostic reasoning; linear programming
+business data processing; directed graphs; formal logic; inference mechanisms; knowledge acquisition; knowledge representation
+Internet telephony; local area networks; wide area networks
+DP management; marketing
+laptop computers; mobile computing; operating systems (computers)
+back-up procedures; electronic commerce; outsourcing; retailing
+computer network management; operating systems (computers)
+discrete systems; frequency-domain analysis; parameter estimation; prediction theory; stochastic systems; time-domain analysis
+back-up procedures; network servers; system recovery; tax preparation
+FORTRAN; parallel programming; shared memory systems
+FORTRAN; parallel programming; parallelising compilers; performance evaluation
+FORTRAN; optimising compilers; parallelising compilers
+distributed shared memory systems; parallel programming; software performance evaluation
+FORTRAN; parallel programming; program compilers; software performance evaluation; software portability
+FORTRAN; parallel programming; program compilers; software performance evaluation; software portability
+financial data processing; FORTRAN; investment; parallel programming
+finite element analysis; FORTRAN; parallel programming; program compilers
+digital simulation; FORTRAN; geophysics computing; magnetohydrodynamics; parallel programming; solar wind
+adders; carry logic; CMOS logic circuits; delays; high-speed integrated circuits; logic CAD; low-power electronics
+FORTRAN; parallel languages; parallelising compilers
+FORTRAN; matrix multiplication; parallel languages; parallel programming; software libraries
+FORTRAN; parallel languages
+FORTRAN; parallelising compilers
+information industry; information science; professional aspects
+business data processing; information analysis; information needs; information retrieval; information use
+commerce; educational administrative data processing; educational courses; information science; professional aspects
+information industry; information resources; Internet; management of change; online front-ends; search engines
+budgeting; history; information resources; Internet; library automation; management of change; marketing; public libraries; special libraries
+information industry; information services
+convolution; correlation methods; fast Fourier transforms; parallel algorithms; real-time systems; signal detection
+electronic commerce; electronic data interchange; hypermedia markup languages
+business data processing
+hypermedia markup languages; Java; object-oriented programming; software agents; standards
+hypermedia markup languages; neural nets; standards
+distributed object management; hypermedia markup languages; information retrieval; pattern matching
+hypermedia markup languages; page description languages; standardisation
+diagnostic reasoning; heuristic programming; uncertainty handling
+case-based reasoning; decision support systems; fuzzy logic; indexing; problem solving; thesauri
+data structures; object-oriented programming; queueing theory; simulation languages; software libraries; software performance evaluation; storage management; time warp simulation
+common-sense reasoning; knowledge based systems; knowledge representation; problem solving; uncertainty handling
+adaptive filters; delays; digital filters; FIR filters; least mean squares methods; pipeline processing
+data flow computing; parallel architectures; performance evaluation
+approximation theory; curvature measurement; distance measurement; image processing; mathematical morphology; minimisation; set theory; topology
+analogue integrated circuits; computer science education; digital signal processing chips; distributed shared memory systems; field programmable gate arrays; image recognition; industrial property; reconfigurable architectures; system buses; teaching; workstation clusters
+asynchronous transfer mode; high definition television; image processing
+driver information systems; edge detection; feature extraction
+data compression; optimisation; quantisation (signal); rate distortion theory; variable rate codes; video coding
+information resources; Internet; software agents
+covariance matrices; image reconstruction; image sequences; renormalisation
+formal specification; linear programming; Petri nets; process algebra
+combinatorial mathematics; communicating sequential processes
+asymptotic stability; discrete time systems; Lyapunov methods; matrix algebra; neural nets
+data mining; decision support systems; meteorological radar; pattern recognition
+formal specification; formal verification; Petri nets
+data mining; electronic commerce; knowledge based systems
+inference mechanisms; neural nets; software agents; uncertainty handling
+computability; semantic networks; temporal logic
+decidability; formal specification; multi-agent systems; parallel programming; Petri nets; process algebra; synchronisation
+approximation theory; computability
+formal specification; Petri nets; protocols; synchronisation
+automata theory; bisimulation equivalence; minimisation; temporal logic
+formal specification; group theory; Petri nets
+convergence; Hopfield neural nets; stability
+decidability; process algebra; semantic networks
+automata theory; process algebra; real-time systems
+bisimulation equivalence; process algebra
+computational complexity; object-oriented programming; type theory
+game theory
+computational complexity; data mining; equivalence classes
+Turing machines
+Boolean functions; computational complexity; decision trees
+formal logic; information systems; knowledge representation
+man-machine systems; manufacturing processes; microcomputer applications; peripheral interfaces; process control; programmable controllers; user interfaces
+Chebyshev approximation; polynomials; stability
+client-server systems; management information systems; manufacturing data processing; software architecture
+process control; programmable controllers; SCADA systems
+building management systems; computerised monitoring; HVAC; Internet; open systems
+genetic algorithms; structural engineering computing
+convergence of numerical methods; laminates; optimisation; structural engineering computing
+CAD; engineering graphics; graph theory; image morphing; optimisation
+CAD; computational complexity; data visualisation; engineering graphics; graph theory; image morphing; optimisation
+boundary-elements methods; finite element analysis; simulated annealing; stochastic processes; structural acoustics; structural engineering computing; vibrations
+boundary-value problems; composite materials; dynamic response; electric potential; finite element analysis; intelligent actuators; intelligent sensors; intelligent structures; piezoelectric actuators; piezoelectric transducers; piezoelectricity
+DP management; publishing
+polynomials; stability
+analogue-digital conversion; CMOS integrated circuits; current-mode circuits; error analysis; network analysis; statistical analysis; tolerance analysis
+desktop publishing; image processing; photography; standards
+bioelectric potentials; neural nets; neurophysiology
+bioelectric potentials; Fokker-Planck equation; neural nets; neurophysiology; noise; probability
+biology; neural nets
+evolutionary computation; learning (artificial intelligence); recurrent neural nets; search problems
+context-free languages; context-sensitive languages; learning (artificial intelligence); performance evaluation; recurrent neural nets
+analogue-digital conversion; digital arithmetic; error correction; finite state machines; learning (artificial intelligence); neural chips; pattern recognition; signal restoration; vector quantisation
+academic libraries; law administration; professional aspects
+academic libraries; law administration
+information resources; law administration
+filtering theory; FIR filters; linear phase filters; matrix algebra; stability; wavelet transforms
+academic libraries; cataloguing; classification; information science; law administration
+differential equations
+finite difference methods; heat; matrix algebra; numerical stability; physics computing
+difference equations; iterative methods; mathematical operators; piecewise polynomial techniques
+computer network management; Internet; internetworking; packet switching; telecommunication congestion control; telecommunication network routing; telecommunication traffic; transport protocols
+Internet; internetworking; network topology; optimisation; telecommunication network routing; telecommunication traffic; transport protocols
+Internet; packet switching; performance evaluation; telecommunication network routing; telecommunication traffic
+broadband networks; crosstalk; digital subscriber lines; distributed control; electromagnetic coupling; iterative methods; power control; telecommunication control; twisted pair cables
+backpropagation; data communication; electronic commerce; neural nets; security of data; signal classification; statistical analysis; telecommunication security; telecommunication traffic; wide area networks
+land mobile radio; radio networks; security of data; telecommunication network routing; telecommunication security; transport protocols
+digital signal processing chips; fixed point arithmetic; optimisation; parallel architectures; pipeline arithmetic; search problems; signal processing; VLSI
+Internet; security of data; telecommunication network routing; telecommunication security; transport protocols
+publishing; software packages
+colour graphics; desktop publishing; software reviews
+colour graphics; publishing
+computer controlled typesetting; printing industry; publishing
+notebook computers; publishing
+publishing
+feedback; input-output stability; linearisation techniques; nonlinear systems
+printing; publishing
+database management systems; document handling; electronic publishing; workflow management software
+electronic commerce; printing; retailing
+graph theory
+computational geometry; graph theory
+computational geometry; graph theory
+equivalence classes; graph theory
+Hadamard matrices
+graph colouring
+graph colouring
+bifurcation; delays; feedback; genetics; hysteresis; oscillations; physiological models; proteins; relaxation oscillators; stability
+computational geometry; directed graphs
+authorisation; Internet telephony; protocols; telecommunication security
+authorisation; Internet; packet switching; telecommunication security
+fractals; pattern recognition; time series
+document image processing; edge detection; image restoration; wavelet transforms
+image classification; infrared imaging; Karhunen-Loeve transforms; Markov processes; minimisation; trees (mathematics); Wiener filters
+image segmentation; self-organising feature maps
+calibration; computer vision; distance measurement; image registration; maximum likelihood estimation; optical radar; surface fitting
+computer vision; image reconstruction; image texture; interpolation; surface fitting
+computational complexity; computational geometry; computer vision; Hilbert spaces; learning (artificial intelligence); topology
+asynchronous circuits; Boolean functions; CMOS logic circuits; delays; hysteresis; logic design; threshold logic; VLSI
+computer vision; image enhancement; image registration; image sampling; image segmentation; lighting; rendering (computer graphics)
+computer vision; eigenvalues and eigenfunctions; lighting; object recognition; principal component analysis
+computer vision; filtering theory; geometry; Kalman filters; nonlinear filters; parameter estimation
+diffusion; image colour analysis; image representation; thermodynamics
+automatic guided vehicles; flexible manufacturing systems; flow graphs; materials handling; optimisation; production control
+batch processing (industrial); materials handling; production control; statistical analysis
+CAD/CAM; machine tools; machining; numerical control; position control
+assembly planning; heuristic programming; production control; production engineering computing; resource allocation
+computerised numerical control; extrusion; industrial robots; rapid prototyping (industrial); surface topography measurement
+fuzzy control; fuzzy set theory; probability; production control; sensitivity analysis
+all-pass filters; delays; filtering theory; iterative methods; least squares approximations; polynomials
+computer vision; flaw detection; inspection; integrated circuit manufacture; integrated circuit packaging; lead bonding
+batch processing (industrial); optimisation; process heating; production control
+CAD/CAM; computer aided production planning; computerised numerical control; cutting; forging; machining; moulding; systems re-engineering
+arc welding; assembly planning; computer aided production planning; heuristic programming; industrial robots; robot programming; search problems; travelling salesman problems
+constraint theory; machine tools; optimisation; production control; tolerance analysis
+flexible manufacturing systems; minimisation; Petri nets; production control; reachability analysis; resource allocation
+fuzzy neural nets; learning (artificial intelligence); manufacturing processes; pattern recognition; statistical process control; vector quantisation
+automobile industry; economics; production control; stock control
+computer integrated manufacturing; economics; flexible manufacturing systems; investment
+belief networks; safety-critical software; software reliability
+convergence; electronic design automation; electrostatic actuators; iterative methods; mechanical engineering computing; micro-optics; micromechanical devices; relaxation theory
+air traffic control; graphical user interfaces; safety-critical software; system documentation
+industrial control; software maintenance; systems analysis
+artificial intelligence; expert systems; knowledge acquisition; software reusability
+software agents; software maintenance
+graphical user interfaces; system documentation; user manuals
+information retrieval; task analysis; user manuals
+concurrent engineering; electronic publishing
+hypermedia; information resources; multimedia systems; production control
+artificial intelligence; CAD/CAM; knowledge based systems; rolling; software agents
+help systems; information resources; technical support services
+electromagnetic actuators; microactuators; radiation pressure; semiconductor device models
+mesh generation; physiological models
+digital simulation; finite element analysis; mechanical contact; physics computing
+embedded systems; graph theory; microprocessor chips; program control structures; storage management chips
+client-server systems; data handling; database management systems; mobile computing; query processing
+broadcast channels; database management systems; mobile computing; query processing; radio links; trees (mathematics)
+cache storage; mobile computing; performance evaluation; storage management
+banking; disasters; planning
+accounting; costing
+drug delivery systems; filtration; gels; microactuators; microfluidics; separation; swelling
+database management systems; marketing
+budgeting data processing; decision support systems; government data processing
+government data processing; Internet
+client-server systems; government data processing; relational databases; systems re-engineering
+government data processing; legislation
+government data processing; information dissemination
+genetic algorithms; manufacturing processes; statistical process control
+engineering computing; process control; quality control; software packages; testing
+DP management; storage management
+biocontrol; fermentation; fuzzy neural nets; identification; optimisation; process control; proteins
+bubbles; crosstalk; drops; ink jet printers; microfluidics; micromachining; nozzles
+call centres; information resources
+microcomputers; software packages
+mailing systems
+mailing systems
+mobile computing; wireless LAN
+business data processing; DP management; operating systems (computers)
+business communication; Internet; public key cryptography; telecommunication security
+asynchronous transfer mode; computer network reliability; frame relay; Internet; local area networks
+crosstalk; drops; frequency response; ink jet printers; microfluidics
+electronic data interchange; electronic publishing; security of data; wide area networks
+file servers; Internet; multimedia communication; outsourcing
+document handling; electronic publishing
+human resource management; information resources; information retrieval
+information resources
+contracts; information industry; information resources; information services; Internet
+information industry; information resources; Internet
+advertising data processing; information resources
+medical administrative data processing; pharmaceutical industry; transaction processing
+multimedia communication; notebook computers; radio access networks
+microactuators; microfluidics; micromachining; microvalves
+electronic publishing
+indexing; information resources; text analysis
+classification; information retrieval; online front-ends; search engines
+business data processing; electronic data interchange
+financial data processing; information resources; Internet
+electronic data interchange; Internet
+groupware; human factors; user interfaces
+computer based training; emergency services; security of data; video databases
+electronic commerce; information resources
+information resources; multimedia communication; sport
+accelerator control systems; cyclotrons; nuclear bombardment targets; proton accelerators; radioactive tracers
+information resources; Internet
+cataloguing; Internet; law administration; library automation
+classification; digital libraries; law administration; library automation
+classification; information resources; law administration; library automation
+closed loop systems; laser cavity resonators; laser feedback; laser stability; light interferometers; optical control; quantum well lasers; temperature control
+casting; electric reactance measurement; electric resistance measurement; induction heating; metallurgical industries; process control; process monitoring; solenoids; temperature control
+computational geometry; computerised tomography; image reconstruction; interpolation; medical image processing; surface fitting
+dielectric resonator oscillators; finite element analysis; frequency stability; frequency standards; microwave oscillators; sapphire; temperature control
+CCD image sensors; flow visualisation; Hough transforms; image recognition; image segmentation; mechanical engineering computing; optical images; physics computing; pipe flow; stereo image processing; tracers; two-phase flow; velocity measurement
+filtering theory; frequency response; iterative methods; laser velocimetry; least squares approximations; light interferometry; low-pass filters; measurement errors; median filters; modal analysis; random noise; signal sampling; statistical analysis; vibration measurement
+magneto-optical recording; optical crosstalk; optical disc storage
+chemical industry; distance measurement; flow measurement; flowmeters; food processing industry; level measurement; microsensors; pharmaceutical industry; pressure measurement; process control; process monitoring; reviews; temperature measurement; ultrasonic applications; ultrasonic measurement
+C++ language; exception handling; inheritance; object-oriented programming;
+    storage management
+C++ language; type theory
+C language; C++ language
+C++ language; graphical user interfaces; hypermedia markup languages; software portability
+C++ language; computational geometry; directed graphs; software libraries
+Java; program diagnostics; storage management
+graphical user interfaces; Java; object-oriented programming; software architecture; software libraries
+Java; object-oriented programming
+accreditation; computer science education; electronic commerce; management education; professional aspects; standards; teaching
+computer bootstrapping; embedded systems; operating systems (computers); program debugging; public domain software; read-only storage; storage management; system monitoring
+buyer's guides; computer network management; notebook computers
+academic libraries; digital libraries; network servers
+cataloguing; electronic publishing; information resources; Internet; library automation
+banking; electronic commerce; mobile computing
+electronic commerce; finance; Internet; investment
+banking; biometrics (access control); fraud; speaker recognition
+civil engineering computing; finite element analysis; Galerkin method; numerical stability; wave propagation
+differentiation; machine bearings; mathematical operators; mechanical contact; mechanical engineering computing; nonlinear equations
+boundary-elements methods; finite element analysis; iterative methods; Jacobian matrices; railways; structural engineering computing; vibrations; wave propagation
+fault diagnosis; fault tolerant computing; redundancy; software reliability; system recovery
+composite materials; elastic waves; flaw detection; genetic algorithms; mechanical engineering computing
+hyperbolic equations; numerical stability; partial differential equations
+compressibility; elastic deformation; finite element analysis; mechanical engineering computing; plastic deformation; porous materials; thermodynamics
+computational complexity; grammars
+computational linguistics; context-free grammars; context-free languages; pushdown automata
+computational linguistics; grammars
+computerised tomography; image reconstruction; medical image processing
+academic libraries; computer based training; information resources; Internet; library automation
+computer literacy; educational computing; information resources; information science; Internet
+digital libraries; electronic mail; information services; real-time systems
+embedded systems; firmware; industrial property; operating systems (computers); public domain software; real-time systems
+information resources; information science; Internet; library automation
+electronic commerce; information resources; Internet
+human factors; rendering (computer graphics); three-dimensional displays
+graphical user interfaces; human factors
+human factors; vision defects; visual perception
+human factors; road vehicles; visual perception
+human factors; man-machine systems; social aspects of automation
+ergonomics; factory automation; human factors; large-scale systems; user interfaces
+electromyography; ergonomics; human factors; man-machine systems
+automatic test equipment; human factors; large-scale systems; probability; reliability
+decidability; temporal logic
+aircraft control; formal verification; human factors; man-machine systems; user interfaces
+aircraft displays; human factors; man-machine systems
+Hilbert spaces; optimal control; partial differential equations
+COBOL; software engineering; software maintenance
+costing; fluctuations; investment; magnetisation; matrix algebra; optimisation; random processes; risk management; spin glasses; stock markets
+bone; diagnostic radiography; neurophysiology; orthopaedics; radiology; surgery; telemedicine
+eye; medical image processing; microcomputer applications; telemedicine; video cameras; video databases; video signal processing
+electrocardiography; medical diagnostic computing; medical signal processing; patient diagnosis; telemedicine
+biomedical communication; patient care; social aspects of automation; teleconferencing; telemedicine
+biomedical education; educational computing; electronic mail; information resources; Internet; telemedicine
+decidability; temporal logic
+human factors; medical computing; patient treatment; psychology; teleconferencing; telemedicine
+biomedical education; certification; continuing education; educational computing; medical computing; teleconferencing; telemedicine
+information analysis; information services; medical computing; reviews; telemedicine
+cost-benefit analysis; medical computing; reviews; speech; telemedicine
+DP industry; microcomputers
+computer evaluation; microprocessor chips; notebook computers
+advertising; information resources; Internet; marketing
+artificial intelligence; information resources; Internet
+artificial intelligence; LISP
+automated highways; driver information systems; intelligent control; road vehicles; user interfaces
+collision avoidance; computerised navigation; decision support systems; differential games; optimal control; path planning; real-time systems; ships
+computability; computational complexity; temporal logic
+computational linguistics; hypermedia markup languages; information resources; Internet; knowledge engineering; software agents
+biology computing; cellular biophysics; digital simulation; molecular biophysics; object-oriented methods; software engineering
+data analysis; data mining; learning (artificial intelligence); marketing data processing; text analysis
+classification; information resources; Internet; learning (artificial intelligence); online front-ends; social aspects of automation
+human factors; information systems; medical information systems; records management; software agents; task analysis; user centred design; user interfaces
+digital simulation; user centred design
+aerospace computing; aerospace control; aerospace robotics; intelligent control; software agents
+airports; marketing data processing; negotiation support systems; personnel; reliability; travel industry; user centred design
+emergency services; mobile robots
+computational fluid dynamics; convergence of numerical methods; differential equations; elliptic equations; filtration; flow through porous media; Lyapunov methods; permeability; viscosity
+specification languages; temporal logic
+boundary-value problems; differentiation; diffusion; integral equations; Monte Carlo methods; physics computing; random processes
+boundary-value problems; convergence of numerical methods; elliptic equations; finite element analysis; iterative methods
+financial data processing; probability; series (mathematics); statistical analysis; stock markets
+coagulation; iterative methods; physics computing
+computational geometry; interpolation; splines (mathematics)
+computational geometry
+computational geometry
+computational geometry; minimisation; polynomials
+CAD/CAM; computational geometry; matrix algebra; splines (mathematics)
+CAD/CAM; computational geometry; computerised numerical control; interpolation; machining
+decidability; equivalence classes; temporal logic
+computational geometry; polynomials; splines (mathematics)
+CAD/CAM; computational geometry; engineering graphics; interpolation; least squares approximations
+business data processing; information resources; Internet; security of data
+business data processing; corporate modelling; diagrams; inheritance; object-oriented methods
+commerce; economic cybernetics; investment; probability
+graph theory; multi-agent systems; social sciences
+computerised numerical control; discrete event simulation; flexible manufacturing systems; object-oriented programming
+discrete event simulation; knowledge acquisition; knowledge representation; process control
+authorisation; computer network management; cooperative systems; discrete event simulation; expert systems
+continuous time systems; discrete event simulation; piecewise constant techniques
+automata theory; temporal logic; theorem proving
+CAD
+Fredholm integral equations; mathematical operators; optimisation
+number theory; polynomials
+calibration; digital simulation; machining; optimisation; production engineering computing; scheduling
+digital simulation; machining; path planning; production engineering computing
+compensation; controllers; flow control; process control; semiconductor device manufacture
+client-server systems; Internet; quality of service; telecommunication network management; telecommunication traffic; transport protocols
+Internet; multimedia communication; protocols; social aspects of automation; teleconferencing
+asynchronous transfer mode; broadband networks; network topology; optimisation; resource allocation
+iterative methods; poles and zeros; polynomials
+parallel programming; program verification; temporal logic; theorem proving
+data reduction; error analysis; interpolation; mesh generation; piecewise linear techniques
+microcontrollers; programming
+home automation; home computing
+logic design; reduced instruction set computing
+character sets; computer graphics; user interfaces
+fluid dynamics; maximum principle; optimal control
+Banach spaces; differential equations; optimal control
+convergence of numerical methods; gradient methods; matrix algebra; Newton method; set theory; vectors
+error analysis; finite element analysis
+differential equations; eigenvalues and eigenfunctions; matrix algebra; Riccati equations
+fuzzy logic; fuzzy systems; inference mechanisms; Markov processes; probability; uncertainty handling
+convergence of numerical methods; variational techniques
+boundary integral equations; differential equations; initial value problems
+integro-differential equations; numerical stability; Runge-Kutta methods
+error analysis; heat conduction; inverse problems; iterative methods; parabolic equations; relaxation theory
+differentiation; functions; vectors
+polynomials; quantum optics
+interpolation; poles and zeros
+polynomials
+Jacobian matrices; polynomials
+conjugate gradient methods; iterative methods
+alarm systems; cellular radio; fault diagnosis; logic programming; telecommunication computing; telecommunication network reliability
+Chebyshev approximation; determinants; difference equations; polynomials; Riccati equations
+approximation theory; differentiation; integration; interpolation
+Bessel functions; integral equations
+matrix algebra; probability; statistical analysis
+probability; statistical analysis
+Jacobian matrices; polynomials
+approximation theory; differential equations; functional equations
+function approximation; poles and zeros
+artificial life; computational linguistics; natural languages
+artificial life; cellular automata; field programmable gate arrays; reconfigurable architectures; self-reproducing automata
+eigenvalues and eigenfunctions; face recognition; feature extraction; generalisation (artificial intelligence); learning (artificial intelligence); multilayer perceptrons
+artificial life; cellular automata; self-reproducing automata
+artificial life; genetic algorithms; living systems
+artificial life; heuristic programming; learning (artificial intelligence); optimisation; search problems
+handicapped aids; information resources
+electronic commerce; records management
+air pollution; environmental science computing; fuzzy logic; fuzzy neural nets; geophysics computing; knowledge based systems; knowledge representation; learning (artificial intelligence)
+workflow management software
+document handling; information resources; records management
+document handling; information resources
+document handling; information resources; law administration
+inference mechanisms; knowledge based systems; real-time systems
+records management
+approximation theory; curve fitting; interpolation
+interpolation; invariance; polynomials
+approximation theory; boundary-value problems; convergence of numerical methods; error analysis; optimisation; parabolic equations; partial differential equations
+convergence; gradient methods; learning (artificial intelligence); minimisation; multilayer perceptrons
+approximation theory; digital simulation; error analysis; finite element analysis; free energy; physics computing; superconductivity
+acoustics; boundary-value problems; communication complexity; integral equations; wavelet transforms
+adaptive systems; cellular radio; conformance testing; genetic algorithms; heuristic programming; ISDN; protocols; search problems; simulated annealing; telecommunication computing; telecommunication equipment testing; telecommunication network reliability
+advertising; decision support systems; marketing; sensitivity analysis
+computational linguistics; decision theory; fuzzy set theory; group decision support systems; military computing; military systems
+forecasting theory; multi-agent systems; optimisation; time series; virtual reality
+information retrieval; information storage; library automation
+decision support systems; fuzzy logic; health care; kidney; medical expert systems; professional aspects
+facility location; heuristic programming; marketing; retailing; simulated annealing
+object-oriented programming; optimisation; planning; project management; software development management; software reusability
+dynamic programming; queueing theory; stochastic processes; stock control
+decision theory; forecasting theory; management science; manufacture; stock control
+graph theory; heuristic programming; operations research; optimisation; search problems
+computational complexity; dynamic programming; heuristic programming; production control
+delay estimation; queueing theory; railways
+maintenance engineering; optimisation; reliability theory
+data envelopment analysis; distributed decision making; linear programming; production
+electronic publishing; library automation
+dynamic programming; operations research; power consumption; space heating; spreadsheet programs
+business data processing; data mining; data warehouses; information technology
+electric current control; harmonics suppression; power distribution control; power factor; power system harmonics; rectifying circuits
+fault location; graphical user interfaces; power system analysis computing; power transmission faults; power transmission lines; transmission line theory; transmission network calculations; wavelet transforms
+closed loop systems; frequency-domain analysis; poles and zeros; polynomials; reduced order systems; robust control; stochastic systems; time-domain analysis; transfer functions
+speech processing; statistical analysis
+adaptive antenna arrays; adaptive signal detection; code division multiple access; multiuser channels; radial basis function networks
+learning (artificial intelligence); pattern classification; radial basis function networks
+video coding; visual communication
+information resources; information retrieval; information science
+band-pass filters; circuit CAD; circuit simulation; microwave filters; passive filters; resonator filters
+CMOS analogue integrated circuits; current-mode circuits; fuzzy neural nets; low-power electronics; neural chips; piecewise linear techniques; VLSI
+Internet; visual communication
+Internet; multimedia communication; quality of service; visual communication
+control system analysis; controllability; convergence of numerical methods; genetic algorithms; MIMO systems; multivariable control systems; observability; time-domain analysis
+AWGN; correlation methods; fuzzy systems; speech processing
+adaptive filters; convergence of numerical methods; filtering theory; least mean squares methods; mean square error methods; signal processing
+adaptive estimation; adaptive signal processing; blind equalisers; Gaussian noise; higher order statistics; moving average processes; parameter estimation; time-varying channels
+adaptive estimation; adaptive signal processing; computational complexity; covariance matrices; direction-of-arrival estimation; eigenvalues and eigenfunctions; Newton method
+feedback; learning (artificial intelligence); manipulator dynamics; mobile robots; multivariable control systems; neurocontrollers; nonlinear control systems; position control; recurrent neural nets; Runge-Kutta methods; time-varying systems
+Boolean algebra; information resources; query formulation; search engines
+analogue-digital conversion; calibration; Gaussian noise; pipeline processing; white noise
+computational complexity; public key cryptography; smart cards
+digital arithmetic; digital filters; FIR filters; frequency-domain synthesis; multiplying circuits
+bipolar logic circuits; flip-flops; heterojunction bipolar transistors; high-speed integrated circuits; III-V semiconductors; indium compounds; integrated circuit layout; integrated circuit packaging; timing jitter
+software reviews; symbol manipulation
+data analysis; software reviews; statistical databases
+electronic publishing; research initiatives
+electronic publishing
+chemistry computing; hypermedia markup languages; information resources; Internet
+natural sciences computing
+academic libraries; information science; teaching
+biology computing; biotechnology; chemistry computing; laboratory techniques; software packages
+computer games; computer graphics; entertainment; natural sciences computing
+business data processing; human factors; information retrieval; information systems; intranets; online front-ends; user interfaces
+human factors; information resources; user interfaces
+decision support systems; diagnostic expert systems; diagnostic reasoning; fault diagnosis; industrial plants; knowledge representation; learning by example
+human factors; human resource management; information technology; personnel; public administration; social aspects of automation
+human factors; three-dimensional displays; user interfaces; visual perception
+character sets; educational computing; human factors; text analysis; user interfaces
+furniture
+computer stationery; paper; purchasing; stock control
+information resources; publishing
+buyer's guides; photocopying
+approximation theory; computational complexity; differential equations; matrix algebra
+finite volume methods; nonlinear equations; parabolic equations
+computational complexity; conjugate gradient methods; eigenvalues and eigenfunctions; Hermitian matrices; Toeplitz matrices
+matrix algebra; optimisation
+business data processing; computer based training; interactive systems; multimedia computing; statistical analysis; user modelling
+business data processing; groupware; human factors; information technology
+information resources; information systems; social aspects of automation; strategic planning
+chaos; information systems; pattern recognition
+cellular radio; electronic commerce; integrated software; mobile computing
+information resources; meta data; software agents; vocabulary
+conjugate gradient methods; sparse matrices
+retailing; stock control
+Internet; retailing; satellite ground stations
+retailing
+air traffic control; airports; mathematical programming; scheduling; singularly perturbed systems; travel industry
+air traffic; mathematical operators; scheduling; simulated annealing; travel industry
+constraint handling; constraint theory; human resource management; integer programming; linear programming; matrix algebra; scheduling; transportation
+duality (mathematics); human resource management; integer programming; search problems; travel industry
+goods distribution; integer programming; paper industry; production control
+education; management science; statistical analysis
+human resource management; integer programming; operations research; railways; scheduling
+agriculture; constraint handling; constraint theory; goods distribution; locomotives; scheduling
+call centres; exponential distribution; human resource management; operations research; police; queueing theory; stochastic processes
+genetic algorithms; integer programming; military systems; operations research; surveillance; synthetic aperture radar
+goods distribution; integer programming; linear programming
+agriculture; covariance matrices; dynamic programming; genetics; operations research; simulation; tree searching
+rapid transit systems; scheduling; search problems
+integer programming; minimisation
+convex programming; decision theory; Newton method; parallel algorithms; predictor-corrector methods
+decision theory; integer programming; minimisation; nonlinear programming; project management; scheduling; tree searching
+behavioural sciences; business data processing; human factors; management science
+computational complexity; dynamic programming; minimisation; production control
+computational complexity; directed graphs; integer programming; linear programming; operations research
+data mining
+education; teleconferencing
+computer aided instruction; distance learning
+construction industry; Internet; project management
+Internet
+management information systems; records management
+document handling; management information systems
+manufacturing resources planning; production control; project management; resource allocation; stock control
+accreditation; document image processing; training
+document image processing; health care
+digital simulation; handicapped aids; mechanical stability; medical computing
+history; medical image processing; reviews
+biomedical ultrasonics; image resolution; medical image processing; wavelet transforms
+acoustic tomography; biomedical ultrasonics; Fourier transforms; image reconstruction; medical image processing; microwave imaging; thermoacoustics
+acoustic tomography; biomedical ultrasonics; image reconstruction; medical image processing; thermoacoustics
+backpropagation; image reconstruction; medical image processing; microwave imaging; thermoacoustics
+discrete time systems; fault diagnosis; fault tolerance; Kalman filters; linear systems; robust control; state estimation; stochastic systems
+budgeting; flexible manufacturing systems; management science
+computerised tomography; differential equations; image reconstruction; medical image processing
+biomedical MRI; cardiology; image segmentation; image sequences; medical image processing; motion estimation; physiological models
+angiocardiography; calibration; image reconstruction; image sequences; medical image processing; shape measurement
+calibration; image reconstruction; infrared imaging; measurement errors; medical image processing; optical tomography; statistical analysis
+image reconstruction; infrared imaging; inverse problems; iterative methods; medical image processing; optical tomography; statistical analysis
+biomechanics; cardiology; computerised tomography; decision support systems; eye; feature extraction; lung; Markov processes; medical image processing; visual perception
+angiocardiography; image reconstruction; medical image processing; prosthetics
+image registration; image sensors; infrared imaging; military equipment; remote sensing; sensor fusion
+computer literacy; employment; hotel industry; management education; travel industry
+computer aided instruction; distance learning; Internet; teaching; travel industry
+education; human resource management; management science; training
+budgeting data processing; courseware; hotel industry; Internet; management education; multimedia computing; planning
+catering industry; courseware; hotel industry; management education; teaching
+certification; message authentication; public key cryptography; tree searching
+authorisation; client-server systems; data privacy; information resources
+data privacy; Internet; multicast communication; protocols; telecommunication network routing
+commissioning; firmware; power station control; thermal power stations
+actuators; reliability; steam turbines; valves; vibrations
+data mining; health care
+computer network management; uninterruptible power supplies
+computerised control; high energy physics instrumentation computing; system buses
+health care; mainframes; network servers
+health care; invoicing; workflow management software
+health care; mobile computing
+health care; mobile computing; security of data
+hidden Markov models; maximum likelihood estimation; speech recognition
+linguistics; speech recognition
+Pareto distribution
+electronic commerce; Internet; software maintenance; systems analysis
+data mining; expert systems; financial data processing; heuristic programming; knowledge engineering; stock markets
+DP management; professional communication; project management
+DP industry; economics; employment
+human resource management; personnel; social aspects of automation
+government policies; groupware; natural sciences computing; wide area networks
+auditing
+accounting; buyer's guides
+accounting; computer based training; document handling; information resources; management information systems; marketing; outsourcing; teleconferencing; wireless LAN
+disasters; planning; system recovery
+accounting; information resources
+decision theory; fuzzy set theory; possibility theory
+biocontrol; biotechnology; identification; intelligent control; process control
+estimation theory; politics; probability; set theory
+decision theory; game theory
+functions; nonlinear programming; set theory
+adaptive control; closed loop systems; compensation; flexible structures; poles and zeros; position control; proportional control; stability; two-term control; velocity control
+convergence; elliptic equations; sequences
+differential equations; gradient index optics; optimal control; piecewise constant techniques
+deformation; differential equations; eigenvalues and eigenfunctions; finite element analysis; intelligent structures; laminates; piezoelectric materials; structural engineering computing; thermoelasticity
+bending; bending strength; fatigue; fibre reinforced composites; finite element analysis; internal stresses; laminates; mechanical engineering computing; stress analysis; stress-strain relations; thermomechanical treatment
+elastoplasticity; fibre reinforced composites; internal stresses; laminates; mechanical engineering computing; micromechanics; viscoplasticity
+civil engineering computing; finite element analysis; mechanical stability; wind
+agriculture; diagnostic expert systems; nonmonotonic reasoning; truth maintenance; uncertainty handling
+eigenvalues and eigenfunctions; least squares approximations; Lyapunov methods
+approximation theory; polynomials; Runge-Kutta methods; stability
+differential equations; finite element analysis
+mean square error methods; Monte Carlo methods; probability; risk management; simulation; stochastic processes
+disasters; risk management
+differentiation; matrix algebra; number theory
+number theory
+equivalence classes; number theory
+Hilbert transforms; number theory
+interpolation; number theory
+decision support systems; heuristic programming; knowledge acquisition; medical expert systems; object-oriented methods; patient treatment; specification languages
+number theory
+approximation theory; Galerkin method; piecewise linear techniques
+interpolation; nonlinear differential equations; polynomials; stability
+boundary integral equations; extrapolation
+computational geometry; error analysis; interpolation
+invariance; wavelet transforms
+matrix algebra; polynomials; wavelet transforms
+fractals; interpolation
+computational geometry; graph theory
+artificial intelligence; functional programming; logic programming
+data mining; decision trees; demography; mobile communication; telecommunication computing; very large databases
+decision trees; learning by example
+number theory
+employment; library automation; personnel
+employment; information science; library automation; personnel
+information science; library automation; management of change; personnel; technology transfer
+library automation; technology transfer
+academic libraries; human resource management; personnel
+employment; library automation; personnel
+continuing education; employment; human resource management; libraries; personnel; professional aspects
+employment; human resource management; information science; libraries; personnel; professional aspects
+case-based reasoning; database indexing; deductive databases; parallel processing; problem solving
+academic libraries; employment; human resource management; information science; personnel; professional aspects; public libraries
+academic libraries; continuing education; employment; human resource management; information science; personnel; professional aspects
+employment; human resource management; information science; libraries; personnel; professional aspects
+academic libraries; employment; human resource management; information science; personnel; professional aspects
+bibliographies; social aspects of automation
+computer games; computer literacy; DP industry; gender issues; personnel
+computer science education; statistical analysis; teaching
+digital libraries; information systems; social aspects of automation
+cryptography; electronic commerce; Internet; message authentication; transaction processing
+banking; computer crime; legislation
+business data processing; case-based reasoning; document handling; workflow management software
+copyright; electronic publishing; Internet
+distance learning; educational computing; educational courses; Internet; teaching
+database management systems; digital libraries; management; query processing
+business communication; business data processing; computer viruses; electronic mail; Internet; marketing data processing
+causality; filtering theory; functional analysis; Gaussian noise; image restoration; iterative methods; nonlinear filters; partial differential equations; smoothing methods
+cryptography; Internet telephony; protocols; security of data
+approximation theory; differentiating circuits; finite difference methods; FIR filters; frequency response; series (mathematics); two-dimensional digital filters
+convergence; feedforward neural nets; handwritten character recognition; Kalman filters; learning (artificial intelligence); pattern classification; piecewise linear techniques; transfer functions
+digital magnetic recording; equalisers; magnetic disc storage; magnetic recording noise; radial basis function networks
+blind equalisers; convolution; correlation methods; mean square error methods; MIMO systems
+calculus; time series
+mobile computing; notebook computers
+least squares approximations; modelling; nonlinear systems; statistical analysis; time series
+client-server systems; file servers; Internet
+fuzzy control; performance evaluation; telecommunication congestion control; transport protocols; tuning; two-term control
+binary sequences; computational complexity; cryptography; polynomials
+logic CAD; modules; simulated annealing; trees (mathematics)
+antialiasing; automatic testing; error statistics; logic testing; shift registers; VLSI
+digital signal processing chips; iterative methods; processor scheduling
+controllability; distributed parameter systems; gradient methods; minimisation; numerical analysis; optimal control
+autoregressive processes; eigenvalues and eigenfunctions; identification; modelling; polynomials
+adaptive control; control system synthesis; feedforward neural nets; H/sup infinity / control; linear systems; matrix algebra; multilayer perceptrons; neurocontrollers; nonlinear control systems; state feedback; uncertain systems
+application program interfaces; electric fields; electromagnetic wave scattering; electromagnetism; impedance matrix; magnetic fields; matrix multiplication; message passing; method of moments; parallel algorithms; parallel architectures; physics computing; sparse matrices; workstations
+adaptive control; computational complexity; control system synthesis; delay systems; filtering theory; pole assignment; uncertain systems
+adaptive control; closed loop systems; control system synthesis; Lyapunov methods; manipulator dynamics; neurocontrollers; robust control; tracking
+Bode diagrams; frequency response; frequency-domain analysis; frequency-domain synthesis; Nyquist diagrams; polynomials; robust control; uncertain systems
+closed loop systems; continuous time systems; control system synthesis; cranes; digital control; discrete time systems; linear systems; matrix algebra; position control; state feedback
+control system analysis; observers; robust control
+control system synthesis; observers; robust control; transfer functions; tuning
+adaptive control; closed loop systems; compensation; control system synthesis; feedback; nonlinear control systems; power system stability; thyristor applications
+adaptive control; control system analysis; convergence; feedback; linearisation techniques; nonlinear control systems; observers; perturbation techniques; stability; variable structure systems
+chemical technology; closed loop systems; control system synthesis; noise; nonlinear systems; robust control; two-term control; uncertain systems; variable structure systems
+closed loop systems; controllability; discrete time systems; observability; poles and zeros; sampled data systems
+algorithm theory; file organisation
+capacitors; circuit simulation; power electronics; power engineering computing; resistors; switching circuits
+bridge circuits; DC-DC power convertors; electric current control; PWM power convertors; resonant power convertors; switching circuits; voltage control
+AC-DC power convertors; bridge circuits; electric current control; harmonic distortion; power conversion harmonics; power supply quality; power system control; PWM power convertors; rectifying circuits; switching circuits; voltage control
+active filters; compensation; control system analysis; control system synthesis; harmonic distortion; load (electric); neurocontrollers; power harmonic filters; power system control; power system harmonics
+active filters; compensation; control system synthesis; DC-AC power convertors; electric current control; power harmonic filters; power supply quality; power system control; power system harmonics; PWM invertors; reactive power control
+active filters; compensation; control system analysis; fuzzy control; microcontrollers; power harmonic filters; power supply quality; power system control; power system harmonics; reactive power control
+biology computing; data models; information services; macromolecules; molecular biophysics; physiological models; probability; topology; vectors
+algorithm theory; biology computing; cellular biophysics; computational complexity
+computational complexity; constraint theory; data structures; dynamic programming; genetic algorithms
+computational geometry; graph theory; probability
+algorithm theory; Markov processes; sorting
+approximation theory; computational geometry; graph theory
+computational complexity; deterministic algorithms; radio networks
+Boolean functions; threshold logic
+encoding; geographic information systems; government policies; standards; town and country planning
+cartography; formal languages; formal verification; geography; law administration; logic programming; town and country planning
+cartography; geographic information systems; terrain mapping; town and country planning; visual databases
+cartography; geographic information systems; least squares approximations; town and country planning
+cartography; geodesy; government data processing; politics; socio-economic effects; town and country planning
+cartography; government data processing; management of change; real estate data processing; systems re-engineering; town and country planning
+cartography; socio-economic effects; systems analysis; town and country planning
+algorithm theory; graph theory; matrix algebra
+application program interfaces; client-server systems; distributed databases; distributed object management; workflow management software
+hypermedia markup languages
+business communication; electronic commerce; electronic data interchange; Internet; protocols
+client-server systems; decision support systems; electronic data interchange; manufacturing resources planning; production control
+electronic commerce; knowledge engineering; multi-agent systems; object-oriented programming; software libraries; specification languages
+business communication; contracts; electronic commerce
+client-server systems; distributed databases; electronic commerce; knowledge engineering; nomenclature; query processing
+electronic commerce; formal specification; hypermedia markup languages; specification languages
+contracts; electronic commerce
+client-server systems; driver information systems; electronic commerce; information dissemination; Internet; knowledge engineering; online front-ends
+computational complexity; constraint theory; graph theory
+aerospace industry; electronic commerce; hypermedia markup languages; transaction processing
+client-server systems; data privacy; file servers; hypermedia markup languages; information needs; information resources; Internet; online front-ends
+hypermedia markup languages; object-oriented databases; query processing; relational databases; storage management
+accounting; workflow management software
+accounting
+accounting; goods distribution; stock control; warehouse automation
+accounting; tax preparation
+accounting; investment
+accounting; buyer's guides; invoicing
+graph theory; percolation
+accounting
+distance learning; educational technology
+DP management; international trade; management of change
+information systems; project management; software development management; systems analysis
+information systems; principal component analysis; project management; social aspects of automation; software development management; systems analysis
+business communication; electronic commerce; information systems; international trade; Internet; management of change
+closed loop systems; compensation; continuous time systems; control system synthesis; fault tolerance; linear systems; sensors; stability; tracking
+closed loop systems; control system synthesis; discrete time systems; feedback; linear programming; minimisation; robust control
+iterative methods; parameter estimation; reduced order systems; relaxation theory
+asymptotic stability; linear systems
+aircraft control; control system synthesis; Lyapunov methods; nonlinear control systems; optimal control
+control system analysis; control system synthesis; feedback; genetic algorithms; linearisation techniques; Monte Carlo methods; nonlinear control systems; probability; robust control; search problems; stochastic systems; uncertain systems
+formal logic; inference mechanisms; knowledge based systems; theorem proving
+formal logic; inference mechanisms; search problems; theorem proving
+data structures; formal logic; inference mechanisms; search problems; theorem proving
+formal logic; inference mechanisms; rewriting systems; search problems; theorem proving
+formal logic; inference mechanisms; theorem proving
+artificial intelligence; formal logic; inference mechanisms; theorem proving
+formal logic
+computational complexity; formal logic
+formal logic; Turing machines
+aerospace control; continuous time systems; control system synthesis; discrete time systems; linearisation techniques; nonlinear control systems; sampled data systems
+digital simulation; EMTP; fault location; power system protection; power system simulation; relay protection; testing
+asymptotic stability; chemical technology; closed loop systems; control system synthesis; feedback; integral equations; set theory
+closed loop systems; control system synthesis; H/sup infinity / control; induction motors; machine control; observers; velocity control
+asymptotic stability; controllability; feedback; linearisation techniques; manipulators
+closed loop systems; control nonlinearities; control system synthesis; linear systems; nonlinear control systems; observers; robust control; stability criteria; state feedback
+control system analysis; delay systems; nonlinear control systems; observability; polynomials
+identification; least squares approximations; linear systems; probability
+control system synthesis; discrete time systems; economic cybernetics; fault tolerance; game theory; invariance; linear systems; state-space methods
+identification; reduced order systems
+continuous time systems; discrete event systems; dynamics; feedback; production control; variable structure systems
+discrete time systems; least mean squares methods; least squares approximations; nonlinear control systems; parameter estimation; polynomial approximation; recursive estimation; statistical analysis; time-varying systems
+invariance; linear systems; optimal control; optimisation; robust control; uncertain systems
+adaptive control; convergence; force control; manipulator dynamics; mobile robots; position control; reduced order systems; uncertain systems
+adaptive control; closed loop systems; computational complexity; identification; linear systems; matrix algebra; robust control; stochastic processes
+closed loop systems; identification; MIMO systems; probability; robust control; stochastic processes; uncertain systems; vectors
+asymptotic stability; control system analysis; control system synthesis; discrete time systems; Lyapunov methods; nonlinear control systems; optimal control
+chromium alloys; iron alloys; neural nets; nickel alloys; spectroscopy computing; X-ray fluorescence analysis
+bifurcation; damping; dynamics; friction; railways
+digital simulation; dynamics; force; road vehicles; torque
+damping; digital simulation; dynamics; linear programming; mechanical variables control; road vehicles
+backpropagation; computer vision; face recognition; image colour analysis; neural nets
+adaptive systems; closed loop systems; interconnected systems; large-scale systems; state feedback; uncertain systems
+control system synthesis; nonlinear control systems; position control; remotely operated vehicles; tracking; underwater vehicles
+control system synthesis; nonlinear control systems; robust control; state feedback; uncertain systems
+C++ language; functional programming; object-oriented programming; software libraries
+distributed object management; groupware; software architecture
+high level languages; machine oriented languages; software portability
+distributed object management; online front-ends; software reusability
+calibration; controllers; digital control; flow control; process control; tuning
+etching; inspection; integrated circuit interconnections; integrated circuit measurement; integrated circuit metallisation; integrated circuit yield; light interferometry; light polarisation; optical information processing; process control; process monitoring; quality control
+marketing; sales management; sampling methods
+approximation theory; Fourier transforms; integral equations; mathematics computing; polynomials
+biomedical MRI; image texture; medical image processing
+aerospace control; aerospace engines; closed loop systems; control system synthesis; H/sup infinity / control; Lyapunov methods; nonlinear control systems; robust control; state-space methods; time-varying systems
+cancer; diagnostic radiography; image classification; mammography; medical image processing; radiology; statistical databases
+haemodynamics; lung; medical image processing; neural nets; radioisotope imaging; statistical analysis
+biocontrol; biomedical transducers; calibration; lung; paediatrics; patient treatment; pneumatic control equipment; pneumodynamics; simulation
+error compensation; finite element analysis; microactuators; micropositioning; piezoelectric actuators
+actuators; gravitational wave detectors; light interferometers; mechanical stability; rubber; thermal stability; vibration isolation
+computerised instrumentation; light scattering; peripheral interfaces; photon correlation spectroscopy; programmable logic devices; scaling circuits; signal processing equipment; statistical analysis; timing
+entropy; information theory; phase transformations; self-organised criticality; statistical mechanics
+asynchronous transfer mode; bandwidth allocation; digital simulation; feedback; protocols; synchronisation; telecommunication computing; telecommunication congestion control; telecommunication signalling; telecommunication traffic
+formal languages; multi-agent systems; programming language semantics
+finite state machines; multi-agent systems; protocols
+bibliographies; gender issues; libraries; literature
+formal languages; software agents
+high level languages; multi-agent systems; software agents
+high level languages; multi-agent systems; software agents
+delays; food processing industry; nonlinear control systems; predictive control; step response; transfer function matrices
+convex programming; variational techniques
+Hilbert spaces; interpolation; polynomials
+natural resources; pollution control
+Markov processes; probability; stock control
+computational geometry; dynamic programming; optimisation
+commodity trading
+bibliographies; library automation
+object-oriented programming
+Bayes methods; decision theory; fuzzy logic; inference mechanisms
+computer games; matrix algebra
+fault trees; probability; system recovery
+conjugate gradient methods; finite element analysis; optimal control
+fuzzy logic; fuzzy set theory
+Boolean functions; logic design
+extrapolation; mean square error methods
+matrix algebra; polynomials
+linear programming
+academic libraries; library automation
+error correction codes; optimisation
+programming
+channel allocation; fading channels; Internet; intersymbol interference; mobile computing; mobile radio; OFDM modulation; video coding; visual communication
+computer network management; hypermedia markup languages; Internet; mobile computing; mobile radio
+certification; contracts; government data processing; Internet; public key cryptography; purchasing; systems re-engineering
+automatic optical inspection; cameras; CCD image sensors; crack detection; manipulators; mobile robots; structural engineering computing
+building management systems; distributed object management; integrated software; Internet; intranets; LAN interconnection; open systems; protocols
+building management systems; information systems; user modelling
+dosimetry; geographic information systems; medical computing
+biological tissues; biomedical MRI; calibration; computerised tomography; graphical user interfaces; lung; Monte Carlo methods; physics computing; radioisotopes
+music; special libraries; vocabulary
+inverse problems; piezoelectric actuators; piezoelectric materials; polynomials
+ground states; magneto-optical effects; optical squeezing; quantum computing
+encoding; exchange interactions (electron); quantum computing; semiconductor quantum dots
+cinematography; marketing; percolation; phase transformations; socio-economic effects
+economics; finance; fluctuations; Gaussian noise; investment; white noise
+biocybernetics; cellular automata
+nonlinear dynamical systems; phase transformations; road traffic
+cellular automata; fluctuations; lattice theory; probability; zoology
+fluctuations; integration; statistical mechanics; stochastic processes; stock markets
+economics; game theory; quantum statistical mechanics; quantum theory
+associative processing; learning (artificial intelligence); neural nets
+cellular automata; iterative methods; nonlinear dynamical systems; self-organised criticality; transport processes; transportation
+road traffic
+economics; fluctuations; game theory; nonlinear dynamical systems; oscillations; statistical mechanics
+corporate modelling; economics; fluctuations; nonlinear dynamical systems; probability; statistical mechanics
+entropy; fluctuations; forecasting theory; foreign exchange trading; Markov processes; nonlinear dynamical systems; probability; time series
+chaos; economic cybernetics; stock markets
+economics; fluctuations; foreign exchange trading; nonlinear dynamical systems; statistical mechanics; time series
+economics; fluctuations; probability; statistical mechanics; stock markets
+bound states; fluctuations; optical squeezing; phase control; quantum theory; two-photon processes
+Boltzmann equation; flow simulation; multiphase flow; nonlinear differential equations; Poisson equation; road traffic
+Bayes methods; pattern classification
+catering industry; electronic commerce; information resources; Internet; marketing data processing
+hotel industry; information resources; Internet; marketing data processing; multimedia computing
+costing; electronic commerce; information resources; Internet; travel industry
+computational complexity; feature extraction; image registration; object recognition
+data compression; digital signal processing chips; image coding; real-time systems; transform coding; tree data structures; video codecs; video coding; wavelet transforms
+convolution; edge detection; image processing; image segmentation; image texture; matrix algebra
+adaptive signal processing; edge detection; image enhancement; image resolution; image restoration; interference suppression; wavelet transforms
+edge detection; image motion analysis; motion compensation; motion estimation; tracking; video signal processing
+data compression; image coding; image representation; transform coding
+adaptive filters; data compression; edge detection; image enhancement; matched filters; noise; probability; wavelet transforms
+chemioception; neural nets
+biomedical MRI; decorrelation; discrete wavelet transforms; image coding; medical image processing
+control system synthesis; machine control; optimal control; power system control; power system stability; synchronous generators; turbines
+coils; compensation; earthing; power distribution faults; power distribution protection; power system analysis computing; software packages
+circuit simulation; electricity supply industry; power electronics; power system simulation
+control system analysis computing; electric generators; electric machine analysis computing; machine control; machine testing; machine theory; parameter estimation; power station control; power system stability
+electricity supply industry; management information systems; power engineering computing
+control facilities; energy management systems; load regulation; power system control; power system security
+computer viruses
+management information systems
+risk management; security of data
+brain models; dendrites; hearing; neural nets
+information networks; optical cables; optical fibre networks; water treatment
+autoregressive processes; copy protection; data compression; data encapsulation; discrete cosine transforms; image coding; statistical analysis; wavelet transforms
+copy protection; data encapsulation; feature extraction; image coding; image recognition; mesh generation; transforms
+cameras; correlation methods; image colour analysis; interpolation; optical filters
+correlation methods; image colour analysis; neural nets
+correlation methods; image colour analysis; neural nets
+image colour analysis; rendering (computer graphics)
+controllability; eigenvalues and eigenfunctions; elasticity; Fourier analysis; Hilbert spaces; partial differential equations; Young's modulus
+compensation; pneumatic control equipment; process control; stiction; valves
+compensation; H/sup infinity / control; performance index; robust control; sensitivity; three-term control
+optical fibre networks; telecommunication
+adaptive systems; linear systems; robust control; state feedback; time-varying systems; uncertain systems
+neural net architecture; neural nets; unsupervised learning
+control system synthesis; digital control; multivariable control systems; optimal control; predictive control; sampled data systems; state-space methods
+computational complexity; observers
+fault diagnosis; identification; least squares approximations; principal component analysis; process monitoring
+adaptive control; backpropagation; fuzzy control; identification; molten carbonate fuel cells; radial basis function networks; temperature control
+haptic interfaces; image segmentation; medical image processing; virtual reality
+computerised tomography; data visualisation; image registration; medical image processing; orthopaedics; surgery
+cancer; computerised tomography; data visualisation; image recognition; knowledge representation; lung; medical expert systems; medical image processing; tumours
+computer animation; finite element analysis; image reconstruction; image representation; image segmentation; kidney; medical image processing; software packages; splines (mathematics)
+computer animation; data visualisation; information resources; Internet; medical computing; rendering (computer graphics); solid modelling; visual databases
+cutting; digital simulation; haptic interfaces; medical computing; real-time systems; rendering (computer graphics); surgery
+computer vision; motion estimation
+biomedical MRI; image classification; image sampling; image segmentation; medical image processing; neural nets
+light interferometry; optical information processing; speckle; stability
+deformation; image segmentation; light interferometry; moire fringes; nondestructive testing; spatial filters; strain measurement
+error statistics; image resolution; military computing; military systems; motion estimation; optical tracking; random noise; shot noise; target tracking
+adaptive optics; colorimetry; edge detection; image colour analysis; optical noise; optical saturation; spatial filters
+CCD image sensors; Fourier transform optics; invariance; object recognition; optical correlation; spatial filters; spatial light modulators; surface topography measurement
+automatic optical inspection; calibration; cameras; computer vision; image sensors; lenses; Radon transforms
+lenses; micropositioning; optical focusing; optical microscopes
+calibration; crystal growth from melt; geometry; robot vision; semiconductor growth
+brightness; image colour analysis; image recognition; image segmentation; image sensors; image sequences; road vehicles; transportation
+computational geometry; computer vision; object recognition
+aberrations; beam steering; deconvolution; image restoration; liquid crystal devices; nematic liquid crystals; optical arrays; reflectivity; spatial filters
+adders; content-addressable storage; light coherence; optical storage; symbolic substitution
+CCD image sensors; image reconstruction; image resolution; light valves; liquid crystal displays; microlenses; optical arrays
+convolution; image coding; image resolution; light diffraction; masks; optical focusing
+Fourier transform optics; image segmentation; inverse problems
+CCD image sensors; data acquisition; eigenvalues and eigenfunctions; image colour analysis; optical filters; optical tuning; reflectivity
+Gaussian noise; image restoration; iterative methods; least mean squares methods; smoothing methods
+dynamic programming; image matching; image sequences; motion estimation; robot vision; vectors
+image recognition; image registration; optical correlation; smoothing methods; spatial filters; spatial light modulators
+block codes; data compression; image coding; quantisation (signal)
+image morphing; rendering (computer graphics)
+electronic speckle pattern interferometry; holographic interferometry; image reconstruction; image resolution; integral equations; light diffraction; measurement errors
+Bayes methods; image segmentation; maximum entropy methods; probability
+copy protection; data compression; discrete cosine transforms; fuzzy logic; image coding; inference mechanisms
+encoding; Fourier transform optics; image coding; image colour analysis; image recognition; optical correlation
+Chebyshev approximation; operations research
+medical administrative data processing
+Bayes methods; estimation theory; probability; statistical analysis
+mathematical programming
+heat conduction; inverse problems; partial differential equations
+active vision; calibration; image motion analysis; image sequences; motion estimation
+computability; inverse problems; ion exchange; mathematical programming
+computational fluid dynamics; mathematics computing; message passing; multiprocessing systems
+flow instability; flow simulation; hybrid simulation; magnetohydrodynamics; plasma instability; stability
+computational complexity; computer architecture; electrical engineering computing; electromagnetism; finite difference time-domain analysis; iterative methods; matrix decomposition; matrix multiplication
+data visualisation; electromagnetic fields; image processing; indoor radio; radiowave propagation; ray tracing; telecommunication computing; tree data structures
+dynamic programming; games of skill
+educational courses
+PERT; spreadsheet programs
+business data processing; computer aided instruction; discrete event simulation; object-oriented programming
+decision theory; management science; operations research; optimisation; probability
+computer vision; image reconstruction
+computer aided instruction; management education
+decision theory; dynamic programming; educational courses; operations research; probability; statistical analysis
+computer graphics; educational computing; management science; statistical analysis
+business data processing; computer science education; decision support systems; management science; spreadsheet programs
+educational courses; management science; modelling
+educational courses; management science; professional aspects
+academic libraries; library automation; research libraries
+costing; publishing
+costing; publishing
+library automation; special libraries
+electronic publishing; hypermedia; information resources
+academic libraries; library automation
+academic libraries; library automation
+library automation; literature; publishing
+psychology
+psychology
+psychology
+costing; DP industry; electronics industry; production control; technology transfer
+decision theory; health care; social sciences
+demography; employment; simulation; social sciences
+management; management science; set theory
+electronic publishing; information resources; natural languages
+corporate modelling; industrial property
+electronic publishing; hypermedia; information resources; Internet
+boundary-elements methods; cooling; iterative methods; moulding; optimisation; plastics industry; process control; sensitivity analysis; solid modelling
+management; manufacturing resources planning; production control; stock control
+CAD/CAM; concurrent engineering; finite element analysis; rapid prototyping (industrial); solid modelling
+computer aided production planning; flexible manufacturing systems; production control
+computer aided production planning; decision support systems; flexible manufacturing systems; fuzzy logic; production control; real-time systems
+CAD; costing; fuzzy logic; knowledge based systems; knowledge representation; machining; moulding; object-oriented programming; product development; solid modelling
+aluminium alloys; cutting; fractals; friction; geometry; machine tools; machining
+machining; numerical control; rapid prototyping (industrial)
+battery storage plants; power system interconnection; power system stability; power transmission control; power transmission lines
+electronic publishing; hypermedia; information resources; information retrieval; Internet
+laser feedback; optical logic; optical modulation; semiconductor optical amplifiers
+computerised tomography; digital simulation; image reconstruction; iterative methods; medical image processing; X-ray absorption; X-ray scattering
+computerised tomography; diagnostic radiography; dosimetry; image registration; medical image processing; positron emission tomography; radiation therapy
+bar codes; data acquisition; food processing industry; mobile computing; production control
+decision theory; inference mechanisms; probability
+bifurcation; biochemistry; catalysis; differential equations; proteins; reaction kinetics theory; stability
+agriculture; modelling; parameter estimation; rain; weather forecasting
+computer networks; graph theory; network analysis; trees (mathematics)
+boundary-value problems; moulding; nonlinear systems
+corporate modelling; mathematical programming; operations research
+state feedback; variable structure systems
+graphical user interfaces; information systems; police data processing
+advertising; nonlinear programming
+optical design techniques; optical logic; optical modulation; semiconductor optical amplifiers
+financial data processing; human factors; information resources; Internet; psychology; real estate data processing; social aspects of automation
+electronic money; Internet; personal computing; psychology; social aspects of automation
+electronic mail; home working; human factors; intranets; personnel; psychology; social aspects of automation
+human factors; information resources; Internet; politics; psychology; social aspects of automation
+electronic mail; human factors; information resources; Internet; psychology; social aspects of automation
+electronic mail; groupware; human factors; Internet; psychology; social aspects of automation; user interfaces
+demography; information resources; Internet; psychology
+data privacy; information resources; Internet; psychology; security of data
+business data processing; client-server systems; mobile computing; user interfaces
+human factors; Internet; psychology; user interfaces
+biological techniques; biology computing; fluorescence; image reconstruction; image resolution; optical focusing; optical microscopy; organic compounds; photosynthesis
+Brownian motion; filtering theory; fractals; measurement; random noise; signal processing; statistical analysis
+convex programming; differential equations; set theory; variable structure systems
+boilers; fault tolerance; graph theory; large-scale systems; ships
+heat transfer; internal combustion engines
+distributed processing; optimisation; resource allocation
+computational complexity; fault tolerant computing; hypercube networks
+decision theory; functions; game theory
+matrix algebra; optimisation; transportation; trees (mathematics)
+electricity supply industry; human resource management; knowledge engineering
+decision theory; game theory; linear systems
+chemical technology; fuzzy set theory; large-scale systems; mathematical programming; uncertain systems
+adaptive control; aerospace control; closed loop systems; discrete systems; fuzzy control; graph theory; space vehicles
+controllability; discrete time systems; linear systems; multidimensional systems; polynomials; vectors
+discrete systems; geometry; linear systems; polynomials; stability
+asymptotic stability; differential equations; probability; stochastic systems
+boundary-value problems; nonlinear control systems; time optimal control
+differential equations; matrix algebra; polynomials
+functional equations; matrix algebra; optimal control; reachability analysis; set theory; variational techniques
+exponential distribution; integration
+fuzzy set theory; information technology; statistical analysis; technological forecasting
+control system analysis; controllability; discrete systems; linear systems; minimisation; synchronisation; uncertain systems
+district heating; fault diagnosis
+computerised control; fault tolerant computing; graph theory
+data communication; multiprocessor interconnection networks
+circuit analysis computing; circuit complexity; linearisation techniques; multivalued logic circuits; polynomials; VLSI
+functional equations; identification; set theory
+computational complexity; graph theory; optimisation; set theory
+closed loop systems; continuous time systems; differential equations; discrete time systems; feedback; linear systems; pulse frequency modulation; stability
+discrete systems; optimal control; reachability analysis; set theory
+normal distribution; set theory; state estimation; stochastic systems; vectors
+DP industry; parallel processing
+functional equations; game theory; matrix algebra; set theory
+control system synthesis; linear systems; multivariable systems; observers; reduced order systems; transfer function matrices
+linear systems; spectral analysis
+quantum computing
+data privacy; security of data; social aspects of automation
+business data processing; computer network management; security of data
+computer network management; computer science education; information systems; Internet; microcomputers; risk management; security of data; standards; telecommunication security
+computer graphics; computer viruses; data compression; file organisation
+DP management; information systems; information technology; security of data; standards
+DP management; security of data
+information technology; investment; mathematical programming
+air conditioning; building management systems; installation; power supplies to apparatus; project management; security
+access control; building management systems; computer networks
+business data processing; engineering computing; groupware; management information systems
+industrial robots; materials handling; postal services; sorting
+computerised monitoring; condition monitoring; industrial robots; maintenance engineering; reliability; scheduling
+assembling; automobile industry; industrial robots
+bending; industrial robots; machining; robot programming
+automobile industry; industrial control; industrial robots
+manufacturing industries; production control; real-time systems
+curve fitting; electromagnetic wave polarisation; electromagnetic wave scattering; error analysis; interpolation; matrix algebra; microwave propagation; millimetre wave propagation; rain; telecommunication computing; tropospheric electromagnetic wave propagation
+automobile industry; manufacturing industries; process control
+formal logic
+Boolean algebra; formal logic
+information technology; legislation; professional aspects
+electronic commerce; legislation; standards
+legislation
+copyright; information resources; legislation
+computer software; government policies; legislation; patents
+computer crime; government policies; information resources; legislation
+government data processing; legislation
+accreditation; certification; computer network management; personnel
+electronic mail; law administration
+CD-ROMs; law administration; records management; storage management
+electronic data interchange; information systems; real estate data processing; standards
+authorisation; cryptography; electronic mail; law administration; telecommunication security
+data privacy; electronic mail; information resources
+information resources; law administration
+DP management; information resources; Internet; legislation
+biographies; health care; history; medical image processing; medical information systems; user interfaces
+biomedical engineering; biotechnology; data privacy; genetics; health care; industrial property; medical computing; medical information systems; medicine; molecular biophysics; pacemakers; records management
+health care; Internet; medical computing; medical information systems; medicine
+computer network management; digital storage
+electronic data interchange; health care; medical administrative data processing; medical computing; page description languages
+diseases; health care; medical computing
+DP management; information technology; social aspects of automation
+DP management; knowledge based systems; personnel; social aspects of automation
+DP management; information systems; social aspects of automation
+commerce; decision support systems; systems re-engineering
+catalysts; chemical structure; chemistry computing; combinatorial mathematics; computational geometry; design of experiments; materials preparation; Monte Carlo methods; random processes; zeolites
+compensation; control system synthesis; discrete time systems; intelligent control; machine control; machine testing; neurocontrollers; permanent magnet motors; servomotors; state estimation; synchronous motor drives; uncertain systems; variable structure systems
+electric admittance; feedback; HVDC power transmission; invertors; linearisation techniques; load flow; nonlinear control systems; power system control; rectifying circuits
+computer science education; mobile computing
+authorisation; computer network management; security of data
+Internet; mobile computing; protocols; standards
+mobile computing; portable computers; speech recognition; speech-based user interfaces
+distributed object management; Internet; mobile computing; software agents
+distributed processing; groupware; management information systems; user interfaces
+database management systems; information services; mobile computing
+business data processing; data privacy; mobile computing
+groupware; teleconferencing
+client-server systems; mobile computing; quality of service
+distributed object management; mobile computing; portable computers
+mobile computing; position measurement; sensors
+conveyors; semiconductor device manufacture
+DP management
+biology computing; laboratory techniques
+broadcasting; intranets
+application program interfaces; DP management; Java
+closed circuit television; hotel industry; security; surveillance
+computer viruses; electronic mail; security of data
+information theory; quantum communication; quantum theory; special relativity
+biochemistry; biocontrol; biological techniques; DNA; electrochemical analysis; electrophoresis; physical instrumentation control; separation
+health care
+acoustic parametric devices; acoustic wave absorption; active noise control; antireflection coatings; boundary-value problems
+buyer's guides; publishing; software packages
+publishing
+academic libraries; digital libraries; educational computing; information resources; Internet; meta data
+academic libraries; contracts; electronic publishing; full-text databases; information resources; library automation
+academic libraries; contracts; electronic publishing; information resources; library automation
+academic libraries; electronic publishing; library automation; purchasing; research libraries
+academic libraries; electronic publishing; library automation; research libraries; scientific information systems
+libraries; purchasing
+digital libraries; electronic publishing; meta data; open systems; protocols
+electronic publishing; hypermedia markup languages; standards
+function approximation; fuzzy logic; fuzzy set theory; fuzzy systems; modelling; tuning
+electronic publishing; mathematics computing; research libraries
+academic libraries; economics; electronic publishing; research libraries
+academic libraries; digital libraries; electronic publishing
+academic libraries; biology computing; electronic publishing; environmental science computing; full-text databases; scientific information systems
+academic libraries; electronic publishing; research libraries
+calibration; errors; factory automation; learning automata; machine tools; mechanical engineering computing; microcomputer applications; pattern classification
+adaptive systems; computational complexity; distributed algorithms; shared memory systems
+computer networks; concurrency control; distributed algorithms; message passing; processor scheduling; resource allocation; shared memory systems
+distributed processing; protocols; self-adjusting systems; theorem proving
+distributed algorithms; message passing; randomised algorithms; theorem proving
+fuzzy logic; fuzzy set theory; identification; modelling; unsupervised learning
+business data processing; data mining; Internet; project management; software reviews
+authoring systems; graphical user interfaces; groupware; information resources; Internet; software reviews
+Internet; system monitoring; system recovery
+electronic publishing; handicapped aids; hypermedia markup languages; information resources; multimedia communication; user interfaces
+file servers; information resources; Internet; monitoring; performance evaluation
+Internet; program testing; user interfaces
+Internet; program debugging; software tools
+C language; object-oriented programming; security
+digital libraries; information retrieval systems; meta data; records management; standards
+information resources; information retrieval systems; professional aspects; records management; standards
+learning (artificial intelligence); matrix algebra; minimisation
+digital libraries; information retrieval systems; records management; standards
+information retrieval systems; politics; records management; service industries
+information retrieval systems; page description languages; personnel; records management
+education; information resources; information retrieval systems; records management; teaching
+information retrieval systems; professional aspects; records management
+chemistry computing; fuzzy logic; fuzzy set theory; molecular configurations; pattern recognition; physics computing
+fuzzy logic; fuzzy set theory; hydrogen bonds; intermolecular mechanics; molecular biophysics; pattern classification; pattern recognition; potential energy functions
+chemistry computing; orbital calculations; parallel algorithms; physics computing; transforms
+biology computing; macromolecules; molecular biophysics; molecular configurations; proteins
+biology computing; chemical structure; chemistry computing; genetic algorithms
+finite automata; formal languages; fuzzy logic
+biology computing; chemical structure; chemistry computing; equivalence classes; medical computing; medical information systems; molecular configurations; organic compounds; pharmaceutical industry; scientific information systems; special libraries
+chemical structure; chemistry computing; generalisation (artificial intelligence); learning (artificial intelligence); neural nets; uncertainty handling
+chemistry computing; entropy; genetic algorithms; organic compounds; scientific information systems; very large databases
+biology computing; chemistry computing; medical computing; medical information systems; molecular biophysics; pharmaceutical industry; scientific information systems
+binding energy; biochemistry; chemistry computing; combinatorial mathematics; hydrogen bonds; molecular biophysics; polarisability; statistical analysis; topology; van der Waals forces
+chromatography; combinatorial mathematics; correlation methods; INDO calculations; iterative methods; organic compounds; oscillator strengths; solvent effects; spectrochemical analysis; spectrophotometry; spectroscopy computing; ultraviolet spectroscopy
+association; chemical equilibrium; chemistry computing; graph theory; organic compounds; solvent effects
+chemistry computing; combinatorial mathematics; organic compounds; physical chemistry; probability; set theory; solubility
+biochemistry; bonds (chemical); chemistry computing; chirality; combinatorial mathematics; isomerism; molecular biophysics; topology; vocabulary
+educational technology; electronic mail; teaching; teleconferencing
+forecasting theory; fuzzy logic; fuzzy set theory; fuzzy systems; iterative methods; probability; time series; uncertain systems
+educational computing; Internet; teaching
+educational computing; educational courses; human factors; information resources; natural sciences computing; teacher training; teaching; user interfaces
+biology computing; ecology; educational computing; information retrieval; Internet; teaching
+courseware; hypermedia; interactive systems; natural sciences computing; teaching
+authoring systems; computer literacy; courseware; multimedia computing; social sciences computing; teacher training; teaching
+educational computing; ergonomics; human factors; multimedia computing; user interfaces
+medical signal processing; parameter estimation; patient diagnosis; principal component analysis; Raman spectroscopy; skin; software packages
+frequency response; inductors; losses; loudspeakers; network parameters; parameter estimation; SPICE
+combinatorial mathematics; computational complexity; cryptography; entropy; Galois fields; random processes; sparse matrices; statistical mechanics
+brain models; neural nets; neurophysiology; nonlinear dynamical systems; random noise; stochastic processes
+backpropagation; fuzzy logic; fuzzy neural nets; genetic algorithms; identification; inference mechanisms; modelling
+compensation; control system synthesis; disc drives; discrete time systems; hard discs; microactuators; pole assignment; position control; self-adjusting systems
+dipole coupling; liquid crystal devices; molecular electronics; nematic liquid crystals; nuclear magnetic resonance; quantum computing; spin systems
+acoustic field; acoustic transducers; acoustic wave absorption; acoustic wave transmission; active noise control; force feedback; piezoelectric transducers; robust control; vibration control
+active noise control; architectural acoustics; noise pollution
+academic libraries; cataloguing; environmental engineering
+academic libraries; management; research libraries; standards
+information resources; law administration
+academic libraries; Internet; library automation
+employment; information science; library automation; personnel; salaries
+academic libraries; interlibrary loan
+telecommunication
+function approximation; fuzzy logic; fuzzy set theory; modelling; parameter estimation
+academic libraries; library automation; network computers
+academic libraries
+Internet; linguistics; psychology; search engines
+linguistics; psychology
+behavioural sciences computing; character sets; information resources
+computer displays; psychology; video signal processing
+interactive devices; keyboards; microcomputer applications; psychology
+behavioural sciences computing
+courseware; Java; public domain software
+authoring languages; educational computing; information resources; Internet; Java; public domain software; student experiments
+adaptive control; aerospace engines; asymptotic stability; fuzzy control; neurocontrollers; nonlinear control systems; radial basis function networks; time-varying systems
+educational computing; information resources; interactive systems; Internet; Java; psychology; student experiments
+electronic publishing; hypermedia; information resources
+computer aided instruction; electronic publishing; exhibitions; humanities; information resources
+computer science education; educational courses; information science
+certification; hypermedia; information resources
+Internet; public libraries
+citation analysis
+Internet; linear programming; relevance feedback; search engines
+deterministic algorithms; optimisation; stock control
+design of experiments; inspection; optimisation; probability; reliability; stochastic processes
+computational complexity; fuzzy logic; fuzzy set theory; pattern recognition; vectors
+life cycle costing; probability; retailing
+Apple computers; BASIC; graphs; operating systems (computers); psychology; user interfaces
+computer testing; data acquisition; operating systems (computers); performance evaluation; program testing; real-time systems
+computer animation; information resources; Internet; psychology
+educational computing; hypermedia markup languages; information resources; Internet; probability; psychology
+courseware; information resources; Internet; public domain software
+authoring languages; educational computing; information resources; Internet; Java; probability
+computer aided instruction; psychology
+computer aided instruction; Internet; psychology
+computer aided instruction; data integrity; information resources; information retrieval; user interfaces
+adaptive control; feedback; fuzzy control; multivariable control systems; optimal control; process control
+authorisation; message authentication
+data visualisation; psychology; rendering (computer graphics)
+psychology; statistical analysis
+courseware; Internet; psychology; student experiments; teaching
+cable television; Internet; subscriber loops; twisted pair cables
+DP industry; IBM computers; research initiatives
+DP management
+geophysical signal processing; geophysical techniques; geophysics computing; image registration; remote sensing; terrain mapping; wavelet transforms
+closed loop systems; control system synthesis; genetic algorithms; robust control; three-term control; transfer function matrices
+computer based training; digital simulation; machine testing; nuclear engineering computing; nuclear power stations; turbogenerators; vibration measurement
+scheduling; sport
+health care; heuristic programming; integer programming; resource allocation; surgery
+government policies; product development; research initiatives
+feedback; management education; management science; operations research
+information systems; management science; operations research
+administrative data processing; information resources; Internet; linear programming; sport
+management science; marketing data processing; software engineering; systems analysis
+cryptography
+multimedia systems; quality of service
+bond graphs; fault diagnosis; genetic algorithms; search problems
+hypercube networks; network routing
+processor scheduling
+computational complexity; magnetic disc storage; random-access storage; resource allocation; storage allocation; tree searching; video on demand; video servers
+computational complexity; string matching
+fault tolerant computing; graph theory; hypercube networks
+cryptography
+Gaussian noise; information theory; probability; quantum communication; quantum theory
+Banach spaces; fuzzy set theory
+fuzzy set theory
+approximation theory; mathematical operators; rough set theory
+extrusion; moulding; predictive control; robust control; temperature control; three-term control; tuning
+decision theory; error analysis
+set theory; topology
+database indexing; tree data structures
+control systems; control theory; delays; planning (artificial intelligence); software agents
+constraint handling; distributed programming; multi-agent systems; PROLOG
+geophysics computing; learning (artificial intelligence); oceanography; self-organising feature maps
+cost-benefit analysis; decision support systems; investment; railways; town and country planning; transportation
+computational linguistics; information retrieval; natural language interfaces; speech-based user interfaces; travel industry
+artificial life; automata theory; learning (artificial intelligence)
+automobile industry; industrial property; Internet; legislation
+control system synthesis; frequency-domain synthesis; H/sup infinity / control; stability; suboptimal control; three-term control; time-domain synthesis
+Internet; legislation
+Internet; public administration
+handwriting recognition; notebook computers
+aircraft control; linear quadratic control; Lyapunov methods; military aircraft; missile guidance; stability
+adaptive signal processing; electromagnetic interference; matrix algebra; parallel algorithms; parameter estimation; tracking
+Bayes methods; Markov processes; probability; state estimation; target tracking
+functions; pulse compression; radar computing; radar signal processing; sparse matrices
+linear synchronous motors; motion control; permanent magnet motors; servomotors; variable structure systems
+backpropagation; feedforward; fuzzy control; neurocontrollers; photovoltaic power systems; solar cell arrays; tracking
+diagrams; instrumentation; process control; safety; standardisation; standards
+feedforward; fuzzy control; model reference adaptive control systems; reluctance motor drives; velocity control
+fuzzy control; invertors; microcontrollers; photovoltaic power systems; robust control; Taguchi methods; transient response
+brushless DC motors; linear motors; neurocontrollers; position control; robust control; state feedback; wavelet transforms
+adaptive filters; covariance matrices; filtering theory; matched filters; maximum likelihood estimation
+attitude control; CCD image sensors; computerised navigation; optical tracking; space vehicles
+actuators; adaptive estimation; aerospace simulation; aircraft control; military aircraft; probability
+interference (signal); magnetocardiography; matched filters; medical signal processing; obstetrics; spatial filters
+electroencephalography; handicapped aids; medical computing; mobile radio; visual evoked potentials
+electrocardiography; inverse problems; iterative methods; medical image processing; muscle
+autoregressive processes; Bayes methods; electroencephalography; frequency-domain analysis; medical signal processing; physiological models; time series; time-domain analysis
+chemical technology; continuous time systems; control system synthesis; discrete event systems; finite state machines; fuzzy control; fuzzy set theory; identification; process control
+backpropagation; feedforward neural nets; medical signal detection; pneumodynamics; sleep
+brain models; electroencephalography; magnetoencephalography; medical signal processing; vision
+biocontrol; blood flow measurement; entropy; kidney; medical signal processing; time-frequency analysis; wavelet transforms
+computational complexity; data compression; electrocardiography; medical signal processing; minimax techniques; vector quantisation
+biological organs; cellular automata; digital simulation; medical computing; microorganisms; physiological models; software packages
+CAD; capacitance; coaxial cables; coaxial waveguides; directional couplers; electric impedance; electrical engineering computing; numerical analysis; waveguide couplers
+circuit simulation; convolution; equivalent circuits; gallium arsenide; metal-semiconductor-metal structures; microwave photonics; millimetre wave detectors; millimetre wave mixers; photodetectors; time-domain analysis
+circuit simulation; integrated circuit interconnections; matrix algebra; time-domain analysis; transient analysis; transmission line theory
+active networks; circuit simulation; equivalent circuits; finite element analysis; microwave amplifiers; microwave circuits; nonlinear network analysis; time-domain analysis
+CMOS memory circuits; differential amplifiers; DRAM chips; low-power electronics
+telecommunication
+control system analysis; control system synthesis; genetic algorithms; three-term control; tuning
+CMOS digital integrated circuits; computer graphic equipment; low-power electronics; microprocessor chips; mobile computing; notebook computers; random-access storage; rendering (computer graphics)
+CMOS integrated circuits; digital-analogue conversion; high-speed integrated circuits; integrated circuit design; modulation; switching circuits
+CMOS digital integrated circuits; detector circuits; digital phase locked loops; high-speed integrated circuits; timing circuits
+CMOS memory circuits; flash memories; NOR circuits; reference circuits; signal generators
+cache storage; CMOS memory circuits; content-addressable storage; low-power electronics; memory architecture; VLSI
+Horn clauses; inductive logic programming; knowledge representation; learning (artificial intelligence)
+network operating systems
+network operating systems; program compilers
+industrial property; meta data; network operating systems; reverse engineering; software engineering
+closed loop systems; control system analysis; feedforward; linear quadratic Gaussian control; matrix algebra; nonparametric statistics; state-space methods
+circuit simulation; DC-DC power convertors; losses; SPICE; state-space methods; transfer functions; waveform analysis
+circuit CAD; computer aided engineering; DC-DC power convertors; power engineering computing
+computer aided instruction; gender issues; handicapped aids; human factors; user interfaces; virtual reality
+educational computing; human factors; information resources; Internet; user interfaces
+educational technology; electronic mail; human factors; social aspects of automation
+bioelectric phenomena; biomedical equipment; biomedical MRI; brain; coils; electromagnetic wave polarisation; finite difference time-domain analysis; image segmentation; Maxwell equations; medical image processing; physiological models; solid modelling
+biomedical MRI; deconvolution; Gaussian distribution; haemodynamics; haemorheology; medical image processing; singular value decomposition
+control systems; motion control; process control; semiconductor device manufacture; surface cleaning
+biomedical MRI; log normal distribution; lung; medical image processing; pneumodynamics
+medical computing; patient treatment; psychology; user interfaces; virtual reality
+medical computing; patient treatment; psychology; user interfaces; virtual reality
+medical computing; patient treatment; psychology; user interfaces; virtual reality
+medical computing; patient treatment; psychology; user interfaces; virtual reality
+medical computing; patient treatment; psychology; user interfaces; virtual reality
+array signal processing; Earth crust; geophysical prospecting; geophysical signal processing; inverse problems; neural nets; terrestrial electricity
+air conditioning; energy conservation
+air conditioning
+ventilation
+automatic test equipment; design for testability; integrated circuit testing; logic testing
+air conditioning
+authorisation
+data warehouses; information resources; query formulation
+distributed programming; information resources; Internet; structured programming; systems analysis
+Internet; monitoring; quality of service; telecommunication traffic
+bioelectric potentials; Markov processes; neural nets
+brain models; neural nets
+neural nets
+operating systems (computers); software portability
+computer networks; public domain software; security of data
+add-on boards; CAD; computer graphic equipment; rendering (computer graphics)
+authorisation; government data processing; legislation; public key cryptography; smart cards; standardisation
+computer viruses; electronic mail
+cryptography; software standards
+authorisation; computer networks; telecommunication security
+CAD/CAM; computational geometry; computerised numerical control; cutting; rapid prototyping (industrial)
+chemical vapour deposition; optimisation; parameter space methods; process control; quality control; thin films
+arc welding; control systems; process control
+condition monitoring; discrete wavelet transforms; feature extraction; hidden Markov models; learning systems; machine tools; machining; vector quantisation; wear
+cutting; machine tools; machining; mesh generation; temperature distribution
+cutting; extrapolation; machine tools; machining
+acoustic signal processing; adaptive signal processing; Gaussian processes; hidden Markov models; speech recognition
+automatic test equipment; error compensation; light interferometers; machine tools; neural nets; probes
+forging; metallurgical industries; optimisation; process control; temperature distribution
+buckling; deformation; finite element analysis; forming processes; stress effects
+cardiology; diseases; electrocardiography; Fourier analysis; medical image processing; physiological models; positron emission tomography
+algorithm theory; bifurcation; blood vessels; diagnostic radiography; medical image processing
+induction motor drives; invertors; machine control; stators; torque control
+angular velocity control; fuzzy control; induction motor drives; machine theory; machine vector control; PWM invertors; rotors; stators
+H/sup infinity / control; induction motors; linearisation techniques; machine control; robust control
+circuit breakers; control system analysis computing; control system synthesis; load shedding; power system analysis computing; power system control; power system restoration
+control system analysis; control system synthesis; electric current control; harmonic distortion; harmonics suppression; optimal control; power system control; power system harmonics
+noise; probability; speech recognition
+control system analysis; control system synthesis; frequency control; genetic algorithms; optimal control; power generation control; power system interconnection; power system transients
+load flow; power system analysis computing; power system planning; symbol manipulation
+chaos; filtering theory; optimisation; signal sampling
+filtering theory; neural nets; optimisation; signal processing; telegraphy; white noise
+chemical engineering computing; fuzzy set theory; modelling; process control
+fuzzy logic; medicine; modelling
+differential games; fuzzy logic; inference mechanisms
+backpropagation; fuzzy neural nets; learning (artificial intelligence); self-adjusting systems
+control system synthesis; fuzzy control; learning (artificial intelligence); parameter estimation
+fuzzy neural nets; learning (artificial intelligence); quadtrees
+audio signal processing; convergence of numerical methods; correlation methods; music; tracking
+constraint handling; fuzzy logic; fuzzy systems
+approximation theory; fuzzy systems; MIMO systems
+approximation theory; fuzzy control; fuzzy systems; inference mechanisms
+fuzzy systems; Hilbert spaces; radial basis function networks
+circuit simulation; CMOS integrated circuits; current mirrors; harmonic distortion; intermodulation; MOSFET circuits; nonlinear network analysis
+business data processing; programming
+copyright; Internet; music
+Internet; marketing
+advertising; Internet; marketing
+document handling; information resources; workflow management software
+telecommunication
+adaptive filters; adaptive signal processing; audio coding; data compression; delays; filtering theory; hearing; least squares approximations; prediction theory
+accidents; digital simulation; railways; traffic engineering computing; virtual reality
+accidents; ergonomics; human factors; psychology; railways; risk management; safety
+biomedical MRI; cancer; computerised tomography; image registration; medical image processing; positron emission tomography; radiation therapy; tumours
+power consumption; power system analysis computing; power system economics
+condition monitoring; cost-benefit analysis; geographic information systems; inspection; maintenance engineering; planning; poles and towers; power cables; power engineering computing; power system reliability; underground cables
+management; power distribution control; software packages
+electricity supply industry; geographic information systems; management
+geographic information systems; management; power distribution control; power engineering computing
+clocks; computer aided instruction; Internet; teaching
+chemical industry; industrial plants; process control; production control; telecontrol
+covariance matrices; filtering theory; principal component analysis; speaker recognition; time-frequency analysis
+frequency control; fuzzy control; genetic algorithms; load regulation; neurocontrollers; oscillations; power generation control
+control system synthesis; flexible AC transmission systems; fuzzy set theory; intelligent control; neural nets; optimal control; power system control; predictive control
+active filters; invertors; passive filters; power harmonic filters; voltage control
+EMTP; Fourier transforms; power capacitors; power supply quality; signal processing; variable speed drives; wavelet transforms
+fault simulation; fuzzy systems; graph theory; parameter estimation; power system faults; power system simulation; radial basis function networks
+computer based training; control engineering education; intelligent tutoring systems; power engineering education; power station control; thermal power stations
+modems; modulation; protocols; telecommunication standards
+Bayes methods; covariance matrices; Gaussian distribution; image motion analysis; tensors
+cryptography; image coding; statistical analysis
+discrete wavelet transforms; image representation; image segmentation
+computational complexity; covariance analysis; Gaussian distribution; speaker recognition; statistical analysis
+blood vessels; eye; image enhancement; image segmentation
+rate distortion theory; video coding
+combined source-channel coding; image classification; image coding; transform coding; transforms
+game theory; probability; random number generation; search problems; statistical analysis
+data analysis; log normal distribution; maximum likelihood estimation; medical administrative data processing; normal distribution
+data analysis; probability; statistical analysis
+approximation theory; binomial distribution; data analysis; normal distribution; sampling methods
+nonparametric statistics; spectral analysis; time series
+data analysis; medical computing; paediatrics; statistical analysis
+calibration; parameter estimation; probability; simulation
+acoustic signal processing; array signal processing; convolution; minimisation
+data analysis; statistical analysis; stochastic processes
+biology computing; data analysis; maximum likelihood estimation; medical computing; statistical analysis
+data analysis; decision theory; parameter estimation; probability; statistical analysis
+learning (artificial intelligence); pattern classification; statistical analysis; tree data structures
+approximation theory; probability; statistical analysis
+data analysis; maximum likelihood estimation; quality control; sequences; statistical process control
+digital simulation; multicast communication; telecommunication congestion control; transport protocols
+decoding; error correction codes; forward error correction; Internet; multicast communication; performance evaluation; Reed-Solomon codes; transport protocols
+cryptography; Internet; message authentication; multicast communication; network topology; telecommunication network routing; telecommunication security; transport protocols
+cryptography; distributed processing; Internet; large-scale systems; multicast communication; stock markets; telecommunication traffic
+computational complexity; Gaussian processes; noise; spectral analysis; speech coding; speech enhancement; speech intelligibility; speech recognition
+computer network reliability; discrete event simulation; Internet; large-scale systems; multicast communication; performance evaluation; self-adjusting systems; telecommunication network routing; transport protocols
+biomedical MRI; brain; image resolution; image segmentation; medical image processing; motion compensation
+biomedical MRI; convolution; image reconstruction; image sampling; iterative methods; medical image processing
+biomedical MRI; blood vessels; image reconstruction; image sampling; interpolation; lung; medical image processing
+biomedical MRI; blood vessels; image resolution; image restoration; kidney; medical image processing
+biomedical MRI; brain; haemodynamics; medical image processing
+active noise control; actuators; brakes; controllers; damping; gain control; vibration control
+chemical reactions; chemistry computing; data analysis; design of experiments; organic compounds; principal component analysis
+spectral analysis; spectral line breadth; spectroscopy computing
+calibration; chemistry computing; uncertainty handling
+formal specification; object-oriented databases; object-oriented programming; specification languages
+chemistry computing; convergence of numerical methods; data mining; fuzzy logic; genetic algorithms; pattern clustering; scientific information systems
+mesh generation; microcomputer applications; multicast communication; network topology; performance evaluation; telecommunication network routing; telecommunication traffic; transport protocols; workstation clusters
+computer network management; delays; Internet; multicast communication; performance evaluation; self-adjusting systems; telecommunication congestion control; telecommunication network routing; transport protocols
+indexing; information resources; information retrieval; Internet; vocabulary
+cataloguing; history; literature; vocabulary
+cataloguing; electronic data interchange; library automation; records management; standards
+academic libraries; cataloguing; library automation; public libraries; training
+DP management; intranets; management information systems
+DP management; management information systems
+application program interfaces; management information systems
+data flow analysis; data flow graphs; data integrity; database management systems; program testing; software maintenance; SQL
+application program interfaces; management information systems
+management information systems
+manufacturing industries; production control; purchasing; stock control
+management information systems
+data models; diagrams; entity-relationship modelling; object-oriented databases; relational databases; specification languages
+electronic commerce; purchasing
+credit transactions; marketing
+DP management; intranets
+application program interfaces
+computer network management; Internet
+information needs; information retrieval; library automation
+information centres; information needs; libraries; marketing
+geographic information systems; information needs; information networks; information resources
+data models; database management systems; human factors
+information dissemination; information needs; information resources; publishing
+bibliographic systems; classification; indexing; information retrieval; ISO standards; medical information systems; thesauri
+academic libraries; information centres; information retrieval; information storage; library automation
+business data processing; data warehouses; management information systems; marketing data processing
+decision theory; fuzzy set theory
+biomedical electrodes; defibrillators; medical robotics
+carrier mobility; field effect transistors; Ge-Si alloys; semiconductor device models; semiconductor materials; technology CAD (electronics)
+computerised tomography; convolution; image reconstruction; nondestructive testing
+feedback; finite element analysis; intelligent control; linear quadratic control; Lyapunov methods; piezoelectric actuators; vibration control
+continuous time systems; frequency-domain analysis; linear systems; poles and zeros; signal processing; transient response
+calibration; physics computing; sensitivity; software packages; ultrasonic materials testing; ultrasonic transducers
+delays; discrete time systems; estimation theory; filtering theory; Kalman filters; matrix algebra; Riccati equations; state estimation; time-varying systems; uncertain systems
+closed loop systems; continuous time systems; control theory; delays; linear systems; observers; quadratic programming; robust control; state feedback; time-varying systems; uncertain systems
+Banach spaces; feedback; linear systems; linearisation techniques; nonlinear network analysis; nonlinear systems; numerical stability
+channel bank filters; data compression; discrete wavelet transforms; matrix algebra; mobile computing; transform coding
+channel bank filters; encoding; filtering theory; genetic algorithms; lattice filters; quadrature mirror filters; signal reconstruction
+channel bank filters; data compression; image coding; low-pass filters; optimisation; time-domain analysis; transform coding; visual perception; wavelet transforms
+induction motor drives; machine vector control; observers; parameter estimation; variable structure systems
+field buses; protocols; real-time systems; scheduling; telecommunication congestion control; telecommunication traffic
+control system analysis; DC-DC power convertors; electric current control; PWM power convertors; robust control
+choppers (circuits); commutation; power transformers; PWM power convertors; snubbers; voltage control
+electronic mail; legislation; telecommunication
+information technology; personal computing; security of data
+binary sequences; Boolean algebra; DC-DC power convertors; nonlinear control systems; programmable logic arrays; resonant power convertors; stochastic processes
+DC-AC power convertors; invertors; machine vector control; rolling mills; steel industry; switching circuits; synchronous motor drives; thyristor convertors; torque control
+DC-AC power convertors; flexible AC transmission systems; invertors; load flow control; power capacitors; power convertors; power filters; power transmission control; static VAr compensators; switching circuits
+induction motor drives; machine control; stators; thyristor convertors; torque control
+capacitors; Kalman filters; power convertors; power system harmonics; switching circuits; voltage control
+harmonic distortion; induction motor drives; insulated gate bipolar transistors; machine bearings; machine control; power convertors; state estimation; switching circuits; torque control
+failure analysis; fault tolerance; induction motor drives; machine control; reliability; voltage control
+algebra; geometry; vectors
+functions; minimisation; set theory
+convergence; evolutionary computation; functions; optimisation
+computer literacy; educational computing; gender issues; human factors; personal computing; training
+design of experiments; minimisation; simulation
+convergence; probability; reliability theory; topology
+asynchronous transfer mode; discrete time systems; Markov processes; matrix algebra; probability; queueing theory
+computational complexity; dispatching; scheduling; transportation
+computational complexity; graph theory; minimisation
+computational complexity; dynamic programming; graph theory; knapsack problems; polynomial approximation
+computational complexity; facility location; functions; graph theory; set theory
+computational complexity; minimisation; trees (mathematics)
+data acquisition; data visualisation; decision support systems; engineering information systems; geophysics computing; management; natural resources
+computer crime; computer network management; security of data
+business data processing; information technology; personal computing; training
+buyer's guides; cathode-ray tube displays
+fission reactor cooling; fission reactor fuel; fuel element failure; nuclear engineering computing
+computerised control; computerised monitoring; firmware; power apparatus; power engineering computing
+corrosion; flow simulation; physics computing; power apparatus; power engineering computing; power stations; two-phase flow
+banking; investment; outsourcing
+banking; insurance; investment
+banking; information resources; intranets
+telecommunication
+purchasing; telecommunication
+business data processing; human factors; information technology; personal computing; risk management
+computer network reliability; Internet; telecommunication network routing; telecommunication traffic; transport protocols
+broadband networks; data compression; Internet; iterative methods; multimedia communication; probability; quality of service; statistical analysis; telecommunication traffic; variable rate codes; video coding; video on demand; visual communication
+cache storage; file servers; Internet; memory protocols; online front-ends; telecommunication traffic
+Internet telephony; local area networks; public administration; wide area networks
+database management systems; information resources
+police
+telecommunication
+cellular radio
+cellular radio; mobile computing
+cellular radio; telephone sets
+business data processing; groupware; information systems; personal computing
+cellular radio; mobile computing
+cellular radio; mobile computing
+telecommunication
+mobile communication; satellite communication; telephony
+telecommunication
+brain; diseases; feature extraction; image registration; medical image processing; stereo image processing
+diseases; echocardiography; ISDN; medical signal processing; paediatrics; patient diagnosis; real-time systems; teleconferencing; telemedicine
+cardiovascular system; digital simulation; medical computing; physiology
+blood vessels; cardiovascular system; digital simulation; haemodynamics; medical computing
+blood vessels; cardiovascular system; computational fluid dynamics; digital simulation; diseases; haemodynamics; medical computing; Navier-Stokes equations; numerical analysis
+information systems; speech recognition; telephony
+biomedical MRI; brain; edge detection; image segmentation; medical image processing; stereo image processing
+infrared spectroscopy; principal component analysis; spectroscopy computing
+liquid crystal displays; plasma displays; video signal processing
+optical disc storage; video discs
+health care
+acoustic signal processing; biomedical ultrasonics; data visualisation; medical signal processing; real-time systems
+adaptive filters; biomedical ultrasonics; blood flow measurement; clutter; colour; eigenvalues and eigenfunctions; image resolution; medical image processing; ultrasonic imaging
+array signal processing; biomedical ultrasonics; medical image processing; motion estimation; speckle; tracking; ultrasonic imaging; Young's modulus
+Aharonov-Bohm effect; electron waveguides; quantum computing; resistors
+convergence; decision theory
+concurrency control; distributed processing; fault tolerant computing; protocols
+decision theory; fuzzy set theory
+computational fluid dynamics; diffusion; lattice gas; nuclear magnetic resonance; quantum computing
+excitons; interface states; quantum computing; quantum Hall effect; semiconductor heterojunctions; spin dynamics; two-dimensional electron gas
+adders; error compensation; minimisation; nuclear spin; quantum computing; quantum gates
+lattice theory; many-body problems; parallel algorithms; physics computing; quantum computing
+algebra; computational complexity; fermion systems; probability; quantum computing
+cellular automata; lattice gas; quantum computing
+many-body problems; quantum computing; quantum theory
+control system analysis computing; power system analysis computing; power system dynamic stability; power system identification; power transmission lines; transmission line theory; transmission network calculations
+computational complexity; computational geometry; computer graphics
+cache storage; client-server systems; mobile communication; mobile computing; portable computers
+computational complexity; computer graphics; visibility
+colour graphics; image colour analysis; interpolation; neural nets; optimisation; printers; rendering (computer graphics)
+image texture; real-time systems; rendering (computer graphics)
+computational geometry; computer graphics
+handicapped aids; information resources; information retrieval
+handicapped aids; information centres; information needs; special libraries
+handicapped aids; information retrieval
+handicapped aids; information retrieval; information services
+handicapped aids; information services; legislation
+human factors; Internet; personal computing; social aspects of automation; user interfaces
+economic cybernetics; fuzzy logic; fuzzy set theory; genetic algorithms; program verification
+bibliographies; electronic commerce; electronic money; government policies; management of change; socio-economic effects
+bibliographies; government policies; Internet; management; naming services
+computer networks; groupware; human factors; information resources; Internet; public administration; social sciences computing
+government policies; Internet; politics; social aspects of automation
+computer network management; network servers
+wireless LAN
+contracts; DP management
+database management systems; marketing
+computational geometry; Newton method; numerical stability; ray tracing; realistic images
+computational fluid dynamics; deterministic algorithms; error statistics; hydrodynamics; Kalman filters
+banking; marketing
+banking; electronic commerce
+chemical variables measurement; computerised monitoring; condition monitoring; electric generators; electric motors; insulation testing; machine insulation; magnetic flux; magnetic variables measurement; partial discharge measurement; rotors; stators; temperature measurement; vibration measurement
+fluid dynamics; Lie algebras; matrix algebra; trees (mathematics)
+computational complexity; polynomials; rational functions
+computational complexity; Jacobian matrices; polynomials; process algebra; series (mathematics)
+computational complexity; wavelet transforms
+academic libraries; document delivery; interlibrary loan; management of change; software selection
+academic libraries; information needs; library automation
+telecommunication
+biology computing; distributed databases; genetics; query processing; scientific information systems; sequences; software performance evaluation
+academic libraries; library automation; software selection
+academic libraries; costing; document delivery; interlibrary loan
+academic libraries; copyright; history; legislation; library automation
+power system dynamic stability; short-circuit currents; wind turbines
+asynchronous generators; power generation control; power system control; synchronous generators; voltage control; wind turbines
+aerodynamics; control system synthesis; feedback; linear quadratic control; nonlinear equations; power generation control; wind turbines
+computational fluid dynamics; flow measurement; flowmeters; technological forecasting
+etching; integrated circuit measurement; photolithography; process control; size control; size measurement
+power generation control; power system transient stability; turbines; valves
+DC power transmission; history; lighting control
+data structures; parallel algorithms; systolic arrays
+accounting; software packages
+accounting; software packages; tax preparation
+accounting; electronic commerce
+approximation theory; Bessel functions; eigenvalues and eigenfunctions; integration; interpolation; Toeplitz matrices; wave functions
+convolution; deconvolution; image restoration; wavelet transforms
+wavelet transforms
+constraint handling; constraint theory; nonlinear equations
+abstracting; computational linguistics; document handling
+formal logic; multi-agent systems; temporal logic
+constraint handling; search problems
+computational complexity; cryptography; logic design; multiplying circuits; shift registers
+computational complexity; formal logic; nonmonotonic reasoning
+industrial property; legislation
+broadband networks; costing; economics; Internet; technological forecasting
+cobalt alloys; iron alloys; magnetic thin films; magneto-optical recording; optical disc storage; optical multilayers; terbium alloys; thermal conductivity measurement
+certification; humanities; Internet; teaching
+angular measurement; bone; diagnostic radiography; diseases; genetic algorithms; neural nets
+telecommunication
+telecommunication
+radio access networks; telecommunication
+telecommunication switching
+computer aided instruction; distance learning; Internet; software agents
+telecommunication
+DP industry; telecommunication
+telecommunication
+Internet telephony; telecommunication switching
+cellular radio; frequency allocation; mobile communication
+computer science; gender issues; history; programming languages
+computer science; employment; gender issues; human resource management; social aspects of automation
+computer science education; gender issues; teaching
+computer games; computer literacy; educational computing; gender issues; social aspects of automation; teaching
+computer science education; employment; gender issues; professional aspects
+cellular automata; cryptography
+computer science education; gender issues; professional aspects
+computer science education; gender issues
+computer science education; gender issues
+bibliographies; computer science; computer science education; gender issues
+computer software; gender issues; history
+employment; gender issues; software engineering
+computer science education; gender issues; information science
+computer science education; employment; gender issues; professional aspects
+computer science education; gender issues; social aspects of automation
+computer science education; demography; gender issues; management of change
+civil engineering computing; management information systems; project management; strategic planning
+computer science education; employment; gender issues
+computer science education; gender issues; social aspects of automation
+computer science education; gender issues; social aspects of automation
+computer science education; gender issues; information technology; social aspects of automation
+computer science education; gender issues; social aspects of automation
+computer science education; gender issues; professional communication
+computer science education; gender issues
+computer science education; educational courses; gender issues
+computer science education; gender issues
+computer science education; gender issues; programming
+civil engineering computing; computerised instrumentation; measurement by laser beam
+computer games; computer science education; courseware; gender issues; Java; multimedia computing; object-oriented programming; teaching
+decision theory; investment
+computational complexity; graph theory; optimisation
+bin packing; heuristic programming; minimisation
+corporate modelling; correlation methods; Monte Carlo methods; stock markets
+minimax techniques; production control; statistical analysis; stochastic processes; stock control
+aerodynamics; boundary layer turbulence; flow control; flow instability; laminar to turbulent transitions; optimal control; waves
+flexible structures; impact (mechanical); position control; tracking; variable structure systems; vibration control
+information theory; parameter estimation; probability; quantum theory
+combinatorial mathematics; computability; computational complexity; optimisation
+civil engineering; fuzzy control; industrial manipulators; pneumatic control equipment; position control
+backpropagation; pattern classification; radial basis function networks; self-organising feature maps; signal sampling; speaker recognition
+computer science education; DP industry; employment; gender issues
+computer science; gender issues; history; information technology; personnel
+computer science education; DP industry; employment; gender issues; personnel
+professional aspects
+computer science; computer science education; gender issues; prejudicial factors
+computer science education; DP industry; gender issues; social aspects of automation
+computer science education; gender issues; social aspects of automation
+computer science education; gender issues; social aspects of automation
+gender issues; history; social aspects of automation
+civil engineering computing; intelligent design assistants
+computer science education; gender issues; social aspects of automation
+computer science; gender issues; professional aspects; social aspects of automation
+probability; queueing theory; stochastic processes
+concurrency theory; decidability; formal languages; grammars; Petri nets; set theory
+learning (artificial intelligence); neural nets; optimisation; reliability theory
+controller area networks; distributed control; field buses; message passing; scheduling
+controllability; discrete time systems; graph theory; inspection; linear systems; Markov processes; matrix algebra; probability; production control; reachability analysis
+concurrency theory; constraint handling; logic programming languages; object-oriented methods; stability
+functional equations; functions; linear systems; Lyapunov methods; nonlinear systems
+algebra; control system synthesis; integral equations; linear systems; nonlinear control systems; robust control
+construction industry; industrial manipulators; telerobotics
+computational complexity; convergence; decision theory
+chemical mechanical polishing; finite element analysis; semiconductor process modelling
+biomedical MRI; brain; diseases; medical image processing; volume measurement
+diagnostic radiography; lung; medical computing; medical information systems; natural languages
+cancer; diagnostic radiography; lung; medical image processing
+algorithm theory; computational geometry; minimisation; trees (mathematics)
+economics; insurance; probability; random processes; statistical mechanics
+advertising; differential equations; economics; insurance; maximum principle; optimisation; statistical mechanics
+advertising; costing; insurance; probability
+advertising; insurance
+corporate modelling; electronic commerce; Internet; technological forecasting
+building management systems; local area networks; mobile robots; security; surveillance
+insurance
+queueing theory; resource allocation; stochastic processes
+asynchronous transfer mode; digital simulation; local area networks; telecommunication congestion control; transport protocols; wide area networks
+asynchronous transfer mode; discrete event simulation; feedback; telecommunication congestion control; telecommunication traffic
+asynchronous transfer mode; digital simulation; speech coding; telecommunication computing; telecommunication traffic; voice communication
+digital control; discrete time systems; H/sup infinity / control; manufacturing processes; piezoelectric actuators; position control
+digital control; disc drives; feedback; feedforward; position control; sampled data systems; servomechanisms; tracking
+electric drives; error compensation; feedback; feedforward; linear motors; motion control; open systems
+feedback; H/sup infinity / control; integrated circuit manufacture; MIMO systems; motion control; multivariable control systems; servomechanisms
+electropneumatic control equipment; machine tools; nonlinear control systems; position control; tracking; velocity control
+investment
+delay systems; dynamics; excavators; industrial robots; motion control; pressure control; robust control; tracking; variable structure systems
+aerospace propulsion; aircraft control; multivariable control systems; observers; scheduling; state feedback
+genetic algorithms; hydraulic systems; identification; nonlinear systems
+feedback; lattice theory; nonlinear control systems; proportional control; vortices; wakes
+case-based reasoning; decision support systems; disasters; emergency services; information needs; knowledge based systems; public administration; real-time systems
+expert systems; fuzzy logic; fuzzy set theory; geophysics computing; pattern matching; uncertainty handling; weather forecasting
+data mining; decision trees; learning (artificial intelligence); very large databases
+inference mechanisms; knowledge representation; medical computing; parallel algorithms; tree data structures; vocabulary
+business data processing; data warehouses; query processing; relational databases; SQL
+data mining; distributed programming; electronic commerce; multi-agent systems; production control
+banking; investment; mobile computing
+computational geometry; crystal microstructure; internal stresses; mesh generation; micromechanics; physics computing; steel; stress-strain relations
+computational complexity; iterative methods; mesh generation; modelling
+air traffic control; automated highways; collision avoidance; digital simulation; industrial control; intelligent control; intelligent sensors; military computing; virtual reality
+glass fibre reinforced composites; intelligent actuators; intelligent structures; piezoelectric actuators; thermal expansion
+aerospace instrumentation; aerospace testing; dynamic testing; intelligent actuators; intelligent materials; intelligent sensors; intelligent structures; polymer films
+composite materials; finite element analysis; intelligent actuators; intelligent control; intelligent structures; shape memory effects; strain control; strain measurement
+accelerometers; backpropagation; closed loop systems; intelligent control; intelligent structures; multilayer perceptrons; piezoelectric actuators; vibration control; white noise
+aircraft testing; automatic testing; computerised monitoring; condition monitoring; crack detection; fatigue testing; intelligent actuators; piezoceramics; piezoelectric transducers; surface acoustic wave transducers; surface acoustic waves
+composite materials; control system analysis computing; feedback; finite element analysis; intelligent actuators; intelligent control; intelligent structures; optimal control; piezoelectric actuators; structural engineering computing; vibration control
+closed loop systems; control system analysis; damping; finite element analysis; optimisation; time-domain analysis; vibration control
+investment; technical support services; wireless LAN
+control system analysis; damping; identification; intelligent actuators; magnetorheology; minimisation; nonlinear control systems
+damping; dynamic response; elastic constants; finite element analysis; intelligent actuators; laminates; piezoelectric actuators; piezoelectricity; vibration control
+bending; elastic constants; harmonic analysis; intelligent actuators; intelligent materials; laminates; piezoelectric actuators; piezoelectric materials; torsion; vibrations
+adaptive signal processing; autoregressive moving average processes; control system CAD; frequency estimation; intelligent structures
+aircraft control; finite element analysis; helicopters; noise abatement; piezoelectric actuators; rotors; vibration control
+composite materials; feedback; feedforward; intelligent actuators; intelligent control; intelligent materials; intelligent structures; shape memory effects
+circuit feedback; closed loop systems; control system synthesis; controllers; damping; intelligent actuators; intelligent control; intelligent structures; piezoelectric actuators; resonators; stability
+backpropagation; Fraunhofer diffraction; light scattering; measurement by laser beam; neural nets; particle size measurement; pattern recognition; physics computing; suspensions
+Gaussian noise; gradient methods; inverse problems; learning (artificial intelligence); magnetoencephalography; medical signal processing; multilayer perceptrons; white noise
+computerised tomography; convolution; diagnostic radiography; Hilbert transforms; image reconstruction; interpolation; medical image processing; Radon transforms
+foreign exchange trading
+decision theory; dosimetry; graphs; medical computing; optimisation; radiation therapy; software tools
+economic cybernetics; fluctuations; partial differential equations; stock markets
+quantum computing; trapped ions
+nuclear magnetic resonance; quantum gates; superconducting junction devices
+bound states; covariance matrices; Gaussian processes; information theory; quantum communication; quantum theory; transforms
+bound states; chaos; eigenvalues and eigenfunctions; entropy; Hilbert spaces; matrix algebra; quantisation (quantum theory); quantum communication; quantum theory
+quantum computing; quantum interference phenomena; quantum theory
+information theory; quantum communication; quantum cryptography; quantum interference phenomena
+Heisenberg model; quantum computing; quantum interference phenomena
+probability; quantum communication; quantum theory
+securities trading
+bound states; chaos; Lyapunov methods; matrix algebra; nonlinear control systems; quantum theory; wave functions
+law administration
+law administration
+law administration
+document handling; law administration
+business graphics; law administration
+information resources; law administration
+binary decision diagrams; circuit testing; combinational circuits; formal verification; logic CAD; logic testing
+circuit CAD; computer debugging; formal verification; integrated circuit testing; microprocessor chips; temporal logic
+investment
+binary decision diagrams; bisimulation equivalence; formal verification; minimisation; reachability analysis
+diagrams; formal specification; graph theory; programming language semantics; visual programming
+adaptive systems; difference equations; Laplace transforms; learning (artificial intelligence); optimal control; probability
+behavioural sciences; cognitive systems; learning (artificial intelligence)
+genetic algorithms; multi-agent systems
+bifurcation; chaos; Chua's circuit; nonlinear control systems; nonlinear dynamical systems; state feedback; variable structure systems
+chaos; nonlinear control systems
+chaos; Henon mapping; nonlinear control systems; state feedback
+chaos; Chua's circuit; set theory; variable structure systems
+chaos; Chua's circuit; nonlinear control systems; synchronisation
+stock markets
+bifurcation; cellular neural nets; limit cycles; matrix algebra; nonlinear control systems; nonlinear dynamical systems; perturbation theory; robust control
+convergence; optimal control; variational techniques
+Internet telephony; protocols
+atmospheric chemistry; clouds; environmental science computing; geophysics computing; Jacobian matrices; matrix decomposition; multiphase flow; sparse matrices
+differential equations; extrapolation; integration; Lie groups
+boundary-value problems; convergence of numerical methods; Runge-Kutta methods; series (mathematics)
+hyperbolic equations; matrix algebra; partial differential equations
+differential equations; Runge-Kutta methods
+convergence of numerical methods; differential equations; initial value problems; iterative methods
+differential equations; integration; mathematics computing; numerical stability; parallel processing; shared memory systems
+risk management; securities trading
+convergence of numerical methods; error analysis; nonlinear differential equations; parabolic equations; Runge-Kutta methods
+bifurcation; chaos; geometry; limit cycles; nonlinear dynamical systems; power system dynamic stability; transforms
+cellular neural nets; entropy; lattice theory; matrix algebra; piecewise linear techniques
+delay-differential systems; differential equations; iterative methods; state feedback
+bifurcation; nonlinear control systems; nonlinear dynamical systems; oscillations; piecewise constant techniques; relaxation; relaxation oscillators
+cellular neural nets; chaos; difference equations
+mesh generation; solid modelling; topology; wavelet transforms
+computational complexity; distributed algorithms; fault tolerant computing
+computational complexity; merging; string matching; tree data structures; tree searching
+distributed processing; fault tolerant computing; processor scheduling; system recovery
+electronic trading; investment; telecommunication
+communication complexity; hypercube networks; network routing; performance evaluation; pipeline processing; reachability analysis; set theory; tree data structures
+cellular radio; channel allocation; digital simulation; importance sampling; probability; quality of service; telecommunication computing; telecommunication traffic
+computational complexity; discrete event simulation; graph theory; importance sampling; optimisation; probability; randomised algorithms
+approximation theory; asynchronous transfer mode; buffer storage; computational complexity; digital simulation; importance sampling; Markov processes; probability; queueing theory; telecommunication computing; telecommunication network routing; transient analysis
+finite automata; flexible manufacturing systems; learning (artificial intelligence); neurocontrollers; programmable controllers; recurrent neural nets
+automatic guided vehicles; flexible manufacturing systems; materials handling; optimisation; scheduling; transportation
+assembling; computerised control; materials handling
+flexible manufacturing systems; iterative methods; production control
+cognitive systems; neural nets; neurophysiology
